@@ -1,26 +1,93 @@
 @import "tailwindcss";
 
+/*
+ * DESIGN TOKENS — single source of truth for the visual identity.
+ * Change brand colors here; components only use semantic token classes
+ * (bg-surface, text-muted, bg-brand, border-border, ...), never hex values.
+ */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Duke brand palette (raw) */
+  --duke-royal: #003087;
+  --duke-navy: #012169;
+  --duke-light: #00539b;
+  --duke-white: #ffffff;
+  --duke-bg-light: #f5f7fa;
+  --duke-bg-dark: #101828;
+  --duke-gray: #667085;
+
+  /* Semantic tokens (light) */
+  --bg: var(--duke-bg-light);
+  --surface: var(--duke-white);
+  --surface-2: #eef2f7;
+  --fg: #0f172a;
+  --muted: var(--duke-gray);
+  --border: #e3e8ef;
+  --brand: var(--duke-royal);
+  --brand-strong: var(--duke-navy);
+  --brand-soft: #e6edf8;
+  --accent: var(--duke-light);
+  --on-brand: var(--duke-white);
+  --success: #067647;
+  --danger: #b42318;
+  --warning: #b54708;
+
+  /* Chart series (validated for contrast on surface) */
+  --chart-1: #003087;
+  --chart-2: #00a3e0;
+  --chart-3: #e5a823;
+  --chart-4: #c2185b;
+  --chart-5: #2e7d32;
+  --chart-grid: #e3e8ef;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: var(--duke-bg-dark);
+    --surface: #182235;
+    --surface-2: #1f2b42;
+    --fg: #e8edf5;
+    --muted: #98a2b3;
+    --border: #2a3650;
+    --brand: #4d7fd6;
+    --brand-strong: #8fb0ea;
+    --brand-soft: #1c2a4a;
+    --accent: #5aa6e8;
+    --on-brand: #ffffff;
+    --chart-1: #7ea6f0;
+    --chart-2: #38c3f2;
+    --chart-3: #f0c04a;
+    --chart-4: #f06292;
+    --chart-5: #66bb6a;
+    --chart-grid: #2a3650;
+  }
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-fg: var(--fg);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-brand: var(--brand);
+  --color-brand-strong: var(--brand-strong);
+  --color-brand-soft: var(--brand-soft);
+  --color-accent: var(--accent);
+  --color-on-brand: var(--on-brand);
+  --color-success: var(--success);
+  --color-danger: var(--danger);
+  --color-warning: var(--warning);
+  --color-duke-royal: var(--duke-royal);
+  --color-duke-navy: var(--duke-navy);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+body {
+  background: var(--bg);
+  color: var(--fg);
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+.tabular {
+  font-variant-numeric: tabular-nums;
 }

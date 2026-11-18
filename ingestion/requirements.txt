@@ -1,0 +1,7 @@
+requests>=2.32
+# Planned (Phase 2-3): uncomment as the corresponding ingesters land
+# beautifulsoup4>=4.12
+# pandas>=2.2
+# feedparser>=6.0
+# nba_api>=1.5
+# cbbpy>=2.1

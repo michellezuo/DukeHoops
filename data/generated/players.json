@@ -1,0 +1,5234 @@
+[
+ {
+  "id": "grayson-allen",
+  "externalIds": {
+   "espn": "3135045"
+  },
+  "fullName": "Grayson Allen",
+  "firstName": "Grayson",
+  "lastName": "Allen",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 75.0,
+  "displayHeight": "6' 3\"",
+  "weightLb": 198.0,
+  "jersey": "3",
+  "birthPlace": "Jacksonville, FL, USA",
+  "dateOfBirth": "1995-10-08",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2015,
+   2016,
+   2017,
+   2018
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/3135045",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "tim-anderson",
+  "externalIds": {
+   "espn": "34999"
+  },
+  "fullName": "Tim Anderson",
+  "firstName": "Tim",
+  "lastName": "Anderson",
+  "position": "Not Available",
+  "positionAbbr": "NA",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2006
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/34999",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "nick-arnold",
+  "externalIds": {
+   "espn": "5454779"
+  },
+  "fullName": "Nick Arnold",
+  "firstName": "Nick",
+  "lastName": "Arnold",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 71.0,
+  "displayHeight": "5' 11\"",
+  "weightLb": 175.0,
+  "jersey": "55",
+  "birthPlace": "Mooresville, NC, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5454779.png",
+  "dukeSeasons": [
+   2027
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5454779",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "marvin-bagley-iii",
+  "externalIds": {
+   "espn": "4277848"
+  },
+  "fullName": "Marvin Bagley III",
+  "firstName": "Marvin",
+  "lastName": "Bagley III",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 82.0,
+  "displayHeight": "6' 10\"",
+  "weightLb": 235.0,
+  "jersey": "35",
+  "birthPlace": "Phoenix, AZ, USA",
+  "dateOfBirth": "1999-03-14",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2018
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4277848",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "joey-baker",
+  "externalIds": {
+   "espn": "4395624"
+  },
+  "fullName": "Joey Baker",
+  "firstName": "Joey",
+  "lastName": "Baker",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 79.0,
+  "displayHeight": "6' 7\"",
+  "weightLb": 205.0,
+  "jersey": "15",
+  "birthPlace": "Fayetteville, NC, USA",
+  "dateOfBirth": "2000-09-13",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4395624.png",
+  "dukeSeasons": [
+   2019,
+   2020,
+   2021,
+   2022
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4395624",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "paolo-banchero",
+  "externalIds": {
+   "espn": "4432573"
+  },
+  "fullName": "Paolo Banchero",
+  "firstName": "Paolo",
+  "lastName": "Banchero",
+  "position": "Power Forward",
+  "positionAbbr": "PF",
+  "heightIn": 82.0,
+  "displayHeight": "6' 10\"",
+  "weightLb": 250.0,
+  "jersey": null,
+  "birthPlace": "Seattle, WA, USA",
+  "dateOfBirth": "2002-11-12",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4432573.png",
+  "dukeSeasons": [
+   2022
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4432573",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "rj-barrett",
+  "externalIds": {
+   "espn": "4395625"
+  },
+  "fullName": "RJ Barrett",
+  "firstName": "RJ",
+  "lastName": "Barrett",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 214.0,
+  "jersey": "5",
+  "birthPlace": "Toronto, ON, Canada",
+  "dateOfBirth": "2000-06-14",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4395625.png",
+  "dukeSeasons": [
+   2019
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4395625",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "shane-battier",
+  "externalIds": {
+   "espn": "127"
+  },
+  "fullName": "Shane Battier",
+  "firstName": "Shane",
+  "lastName": "Battier",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 220.0,
+  "jersey": "31 ",
+  "birthPlace": "Birmingham, MI, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/127.png",
+  "dukeSeasons": [
+   2003
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/127",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "shane-battier-2020491",
+  "externalIds": {
+   "espn": "2020491"
+  },
+  "fullName": "Shane Battier",
+  "firstName": "Shane",
+  "lastName": "Battier",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 220.0,
+  "jersey": null,
+  "birthPlace": "Detroit, MI, USA",
+  "dateOfBirth": "1978-09-09",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2026
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/2020491",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "neal-begovich",
+  "externalIds": {
+   "espn": "4431890"
+  },
+  "fullName": "Neal Begovich",
+  "firstName": "Neal",
+  "lastName": "Begovich",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 230.0,
+  "jersey": "20",
+  "birthPlace": "San Francisco, CA, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4431890.png",
+  "dukeSeasons": [
+   2024,
+   2025
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4431890",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "brennan-besser",
+  "externalIds": {
+   "espn": "3913179"
+  },
+  "fullName": "Brennan Besser",
+  "firstName": "Brennan",
+  "lastName": "Besser",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 190.0,
+  "jersey": "53",
+  "birthPlace": "Chicago, IL, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/3913179.png",
+  "dukeSeasons": [
+   2016,
+   2017,
+   2018,
+   2019
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/3913179",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "john-blackwell",
+  "externalIds": {
+   "espn": "5103630"
+  },
+  "fullName": "John Blackwell",
+  "firstName": "John",
+  "lastName": "Blackwell",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 205.0,
+  "jersey": "13",
+  "birthPlace": "Bloomfield Hills, MI, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5103630.png",
+  "dukeSeasons": [
+   2027
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5103630",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jaylen-blakes",
+  "externalIds": {
+   "espn": "4683735"
+  },
+  "fullName": "Jaylen Blakes",
+  "firstName": "Jaylen",
+  "lastName": "Blakes",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 74.0,
+  "displayHeight": "6' 2\"",
+  "weightLb": 205.0,
+  "jersey": "21",
+  "birthPlace": "Somerset, NJ, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4683735.png",
+  "dukeSeasons": [
+   2022,
+   2023,
+   2024
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4683735",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "eric-boateng",
+  "externalIds": {
+   "espn": "27019"
+  },
+  "fullName": "Eric Boateng",
+  "firstName": "Eric",
+  "lastName": "Boateng",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 82.0,
+  "displayHeight": "6' 10\"",
+  "weightLb": 257.0,
+  "jersey": "2  ",
+  "birthPlace": "London, England",
+  "dateOfBirth": "1985-11-20",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2006
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/27019",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "marques-bolden",
+  "externalIds": {
+   "espn": "4065652"
+  },
+  "fullName": "Marques Bolden",
+  "firstName": "Marques",
+  "lastName": "Bolden",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 82.0,
+  "displayHeight": "6' 10\"",
+  "weightLb": 249.0,
+  "jersey": "20",
+  "birthPlace": "DeSoto, TX, USA",
+  "dateOfBirth": "1998-04-17",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4065652.png",
+  "dukeSeasons": [
+   2017,
+   2018,
+   2019
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4065652",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "cameron-boozer",
+  "externalIds": {
+   "espn": "5041935"
+  },
+  "fullName": "Cameron Boozer",
+  "firstName": "Cameron",
+  "lastName": "Boozer",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 253.0,
+  "jersey": "12",
+  "birthPlace": "Miami, FL, USA",
+  "dateOfBirth": "2007-07-18",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5041935.png",
+  "dukeSeasons": [
+   2026
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5041935",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "carlos-boozer",
+  "externalIds": {
+   "espn": "119"
+  },
+  "fullName": "Carlos Boozer",
+  "firstName": "Carlos",
+  "lastName": "Boozer",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 258.0,
+  "jersey": "4  ",
+  "birthPlace": "Juneau, AK, USA",
+  "dateOfBirth": "1981-11-20",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2002
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/119",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "cayden-boozer",
+  "externalIds": {
+   "espn": "5041937"
+  },
+  "fullName": "Cayden Boozer",
+  "firstName": "Cayden",
+  "lastName": "Boozer",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 76.0,
+  "displayHeight": "6' 4\"",
+  "weightLb": 195.0,
+  "jersey": "2",
+  "birthPlace": "Miami, FL, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5041937.png",
+  "dukeSeasons": [
+   2026,
+   2027
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5041937",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "stanley-borden",
+  "externalIds": {
+   "espn": "4897107"
+  },
+  "fullName": "Stanley Borden",
+  "firstName": "Stanley",
+  "lastName": "Borden",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 84.0,
+  "displayHeight": "7' 0\"",
+  "weightLb": 241.0,
+  "jersey": "17",
+  "birthPlace": "Istanbul, Türkiye",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4897107.png",
+  "dukeSeasons": [
+   2022,
+   2023,
+   2024,
+   2025
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4897107",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "andy-borman",
+  "externalIds": {
+   "espn": "129"
+  },
+  "fullName": "Andy Borman",
+  "firstName": "Andy",
+  "lastName": "Borman",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 73.0,
+  "displayHeight": "6' 1\"",
+  "weightLb": 190.0,
+  "jersey": "40 ",
+  "birthPlace": "Morrisville, NC, USA",
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2002,
+   2004
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/129",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "joaquim-boumtje-boumtje",
+  "externalIds": {
+   "espn": "5347090"
+  },
+  "fullName": "Joaquim Boumtje Boumtje",
+  "firstName": "Joaquim",
+  "lastName": "Boumtje Boumtje",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 86.0,
+  "displayHeight": "7' 2\"",
+  "weightLb": 250.0,
+  "jersey": "30",
+  "birthPlace": "Oviedo, FL, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5347090.png",
+  "dukeSeasons": [
+   2027
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5347090",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jamal-boykin",
+  "externalIds": {
+   "espn": "27020"
+  },
+  "fullName": "Jamal Boykin",
+  "firstName": "Jamal",
+  "lastName": "Boykin",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 240.0,
+  "jersey": "10 ",
+  "birthPlace": "Los Angeles, CA, USA",
+  "dateOfBirth": "1987-04-27",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2006,
+   2007
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/27020",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jaemyn-brakefield",
+  "externalIds": {
+   "espn": "4432169"
+  },
+  "fullName": "Jaemyn Brakefield",
+  "firstName": "Jaemyn",
+  "lastName": "Brakefield",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 225.0,
+  "jersey": "4",
+  "birthPlace": "Jackson, MS, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4432169.png",
+  "dukeSeasons": [
+   2021
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4432169",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "elton-brand",
+  "externalIds": {
+   "espn": "71594"
+  },
+  "fullName": "Elton Brand",
+  "firstName": "Elton",
+  "lastName": "Brand",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 254.0,
+  "jersey": null,
+  "birthPlace": "Cortland, NY, USA",
+  "dateOfBirth": "1979-03-11",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2026
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/71594",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "maliq-brown",
+  "externalIds": {
+   "espn": "5105337"
+  },
+  "fullName": "Maliq Brown",
+  "firstName": "Maliq",
+  "lastName": "Brown",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 235.0,
+  "jersey": "6",
+  "birthPlace": "Culpeper, VA, USA",
+  "dateOfBirth": "2003-11-15",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105337.png",
+  "dukeSeasons": [
+   2025,
+   2026
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5105337",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "mike-buckmire",
+  "externalIds": {
+   "espn": "4277849"
+  },
+  "fullName": "Mike Buckmire",
+  "firstName": "Mike",
+  "lastName": "Buckmire",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 74.0,
+  "displayHeight": "6' 2\"",
+  "weightLb": 175.0,
+  "jersey": "51",
+  "birthPlace": "Blue Bell, PA, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4277849.png",
+  "dukeSeasons": [
+   2018,
+   2019,
+   2020,
+   2021
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4277849",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "andre-buckner",
+  "externalIds": {
+   "espn": "124"
+  },
+  "fullName": "Andre Buckner",
+  "firstName": "Andre",
+  "lastName": "Buckner",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 70.0,
+  "displayHeight": "5' 10\"",
+  "weightLb": 170.0,
+  "jersey": "2  ",
+  "birthPlace": "Hopkinsville, KY, USA",
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2002,
+   2003
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/124",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "ryan-caldbeck",
+  "externalIds": {
+   "espn": "120"
+  },
+  "fullName": "Ryan Caldbeck",
+  "firstName": "Ryan",
+  "lastName": "Caldbeck",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 75.0,
+  "displayHeight": "6' 3\"",
+  "weightLb": 185.0,
+  "jersey": "5  ",
+  "birthPlace": "Shelburne, VT, USA",
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2003
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/120",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "vernon-carey-jr",
+  "externalIds": {
+   "espn": "4431669"
+  },
+  "fullName": "Vernon Carey Jr.",
+  "firstName": "Vernon",
+  "lastName": "Carey Jr.",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 270.0,
+  "jersey": "1",
+  "birthPlace": "Southwest Ranches, FL, USA",
+  "dateOfBirth": "2001-02-25",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4431669.png",
+  "dukeSeasons": [
+   2020
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4431669",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "matt-carroll",
+  "externalIds": {
+   "espn": "25210"
+  },
+  "fullName": "Matt Carroll",
+  "firstName": "Matt",
+  "lastName": "Carroll",
+  "position": "Not Available",
+  "positionAbbr": "NA",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2004
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/25210",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "wendell-carter-jr",
+  "externalIds": {
+   "espn": "4277847"
+  },
+  "fullName": "Wendell Carter Jr.",
+  "firstName": "Wendell",
+  "lastName": "Carter Jr.",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 82.0,
+  "displayHeight": "6' 10\"",
+  "weightLb": 270.0,
+  "jersey": "34",
+  "birthPlace": "Atlanta, GA, USA",
+  "dateOfBirth": "1999-04-16",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2018
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4277847",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "kale-catchings",
+  "externalIds": {
+   "espn": "4397971"
+  },
+  "fullName": "Kale Catchings",
+  "firstName": "Kale",
+  "lastName": "Catchings",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 215.0,
+  "jersey": "12",
+  "birthPlace": "O' Fallon, MO, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4397971.png",
+  "dukeSeasons": [
+   2023
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4397971",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "mark-causey",
+  "externalIds": {
+   "espn": "5076"
+  },
+  "fullName": "Mark Causey",
+  "firstName": "Mark",
+  "lastName": "Causey",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": "12 ",
+  "birthPlace": "USA",
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2002
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5076",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "matt-christensen",
+  "externalIds": {
+   "espn": "130"
+  },
+  "fullName": "Matt Christensen",
+  "firstName": "Matt",
+  "lastName": "Christensen",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 82.0,
+  "displayHeight": "6' 10\"",
+  "weightLb": 265.0,
+  "jersey": "41 ",
+  "birthPlace": "Belmont, MA, USA",
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2002
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/130",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "henry-coleman-iii",
+  "externalIds": {
+   "espn": "4432186"
+  },
+  "fullName": "Henry Coleman III",
+  "firstName": "Henry",
+  "lastName": "Coleman III",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 250.0,
+  "jersey": "15",
+  "birthPlace": "Richmond, VA, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4432186.png",
+  "dukeSeasons": [
+   2021
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4432186",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "henry-coleman-iii-4900187",
+  "externalIds": {
+   "espn": "4900187"
+  },
+  "fullName": "Henry Coleman Iii",
+  "firstName": "Henry",
+  "lastName": "Coleman Iii",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2022
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4900187",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "quinn-cook",
+  "externalIds": {
+   "espn": "56113"
+  },
+  "fullName": "Quinn Cook",
+  "firstName": "Quinn",
+  "lastName": "Cook",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 73.0,
+  "displayHeight": "6' 1\"",
+  "weightLb": 180.0,
+  "jersey": "2",
+  "birthPlace": "Washington, DC, USA",
+  "dateOfBirth": "1993-03-23",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2012,
+   2013,
+   2014,
+   2015
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/56113",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "seth-curry",
+  "externalIds": {
+   "espn": "41546"
+  },
+  "fullName": "Seth Curry",
+  "firstName": "Seth",
+  "lastName": "Curry",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 73.0,
+  "displayHeight": "6' 1\"",
+  "weightLb": 185.0,
+  "jersey": "30 ",
+  "birthPlace": "Charlotte, NC, USA",
+  "dateOfBirth": "1990-08-23",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2011,
+   2012,
+   2013
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/41546",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "olek-czyz",
+  "externalIds": {
+   "espn": "41719"
+  },
+  "fullName": "Olek Czyz",
+  "firstName": "Olek",
+  "lastName": "Czyz",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 79.0,
+  "displayHeight": "6' 7\"",
+  "weightLb": 240.0,
+  "jersey": "31 ",
+  "birthPlace": "Poland",
+  "dateOfBirth": "1990-03-03",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2009,
+   2010
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/41719",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jordan-davidson",
+  "externalIds": {
+   "espn": "27021"
+  },
+  "fullName": "Jordan Davidson",
+  "firstName": "Jordan",
+  "lastName": "Davidson",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 73.0,
+  "displayHeight": "6' 1\"",
+  "weightLb": 180.0,
+  "jersey": "41 ",
+  "birthPlace": "Melbourne, AR, USA",
+  "dateOfBirth": "1986-07-06",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2006,
+   2007,
+   2008,
+   2010
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/27021",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "patrick-davidson",
+  "externalIds": {
+   "espn": "15148"
+  },
+  "fullName": "Patrick Davidson",
+  "firstName": "Patrick",
+  "lastName": "Davidson",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 72.0,
+  "displayHeight": "6' 0\"",
+  "weightLb": 190.0,
+  "jersey": "41 ",
+  "birthPlace": null,
+  "dateOfBirth": "2003-09-17",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2004,
+   2005
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/15148",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "brock-davis",
+  "externalIds": {
+   "espn": "5341547"
+  },
+  "fullName": "Brock Davis",
+  "firstName": "Brock",
+  "lastName": "Davis",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 195.0,
+  "jersey": "50",
+  "birthPlace": "Washington, DC, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5341547.png",
+  "dukeSeasons": [
+   2026,
+   2027
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5341547",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "andre-dawkins",
+  "externalIds": {
+   "espn": "46255"
+  },
+  "fullName": "Andre Dawkins",
+  "firstName": "Andre",
+  "lastName": "Dawkins",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 215.0,
+  "jersey": "34",
+  "birthPlace": "Chesapeake, VA, USA",
+  "dateOfBirth": "1991-09-19",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2010,
+   2011,
+   2012,
+   2014
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/46255",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "johnny-dawkins",
+  "externalIds": {
+   "espn": "71370"
+  },
+  "fullName": "Johnny Dawkins",
+  "firstName": "Johnny",
+  "lastName": "Dawkins",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2026
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/71370",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "javin-delaurier",
+  "externalIds": {
+   "espn": "4065650"
+  },
+  "fullName": "Javin DeLaurier",
+  "firstName": "Javin",
+  "lastName": "DeLaurier",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 82.0,
+  "displayHeight": "6' 10\"",
+  "weightLb": 215.0,
+  "jersey": "12",
+  "birthPlace": "Shipman, VA, USA",
+  "dateOfBirth": "1998-04-07",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4065650.png",
+  "dukeSeasons": [
+   2017,
+   2018,
+   2019,
+   2020
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4065650",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "luol-deng",
+  "externalIds": {
+   "espn": "15149"
+  },
+  "fullName": "Luol Deng",
+  "firstName": "Luol",
+  "lastName": "Deng",
+  "position": "Guard/Forward",
+  "positionAbbr": "G-F",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 237.0,
+  "jersey": "2  ",
+  "birthPlace": "London, England",
+  "dateOfBirth": "1985-04-16",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2004
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/15149",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "bryant-dillon",
+  "externalIds": {
+   "espn": "25204"
+  },
+  "fullName": "Bryant Dillon",
+  "firstName": "Bryant",
+  "lastName": "Dillon",
+  "position": "Not Available",
+  "positionAbbr": "NA",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2004
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/25204",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "sean-dockery",
+  "externalIds": {
+   "espn": "11141"
+  },
+  "fullName": "Sean Dockery",
+  "firstName": "Sean",
+  "lastName": "Dockery",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 74.0,
+  "displayHeight": "6' 2\"",
+  "weightLb": 185.0,
+  "jersey": "15 ",
+  "birthPlace": "Chicago, IL, USA",
+  "dateOfBirth": "2003-09-17",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2003,
+   2004,
+   2005,
+   2006
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/11141",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "chris-duhon",
+  "externalIds": {
+   "espn": "126"
+  },
+  "fullName": "Chris Duhon",
+  "firstName": "Chris",
+  "lastName": "Duhon",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 73.0,
+  "displayHeight": "6' 1\"",
+  "weightLb": 190.0,
+  "jersey": "21 ",
+  "birthPlace": "Slidell, LA, USA",
+  "dateOfBirth": "1982-08-31",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2002,
+   2003,
+   2004
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/126",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "mike-dunleavy",
+  "externalIds": {
+   "espn": "4464"
+  },
+  "fullName": "Mike Dunleavy",
+  "firstName": "Mike",
+  "lastName": "Dunleavy",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 230.0,
+  "jersey": "34 ",
+  "birthPlace": "Lake Oswego, OR, USA",
+  "dateOfBirth": "1980-09-15",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2002
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4464",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "trevon-duval",
+  "externalIds": {
+   "espn": "4277842"
+  },
+  "fullName": "Trevon Duval",
+  "firstName": "Trevon",
+  "lastName": "Duval",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 75.0,
+  "displayHeight": "6' 3\"",
+  "weightLb": 186.0,
+  "jersey": "1",
+  "birthPlace": "New Castle, DE, USA",
+  "dateOfBirth": "1998-08-03",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2018
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4277842",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "isaiah-evans",
+  "externalIds": {
+   "espn": "5061585"
+  },
+  "fullName": "Isaiah Evans",
+  "firstName": "Isaiah",
+  "lastName": "Evans",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 186.0,
+  "jersey": "3",
+  "birthPlace": "Fayetteville, NC, USA",
+  "dateOfBirth": "2005-12-06",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5061585.png",
+  "dukeSeasons": [
+   2025,
+   2026
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5061585",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "daniel-ewing",
+  "externalIds": {
+   "espn": "5074"
+  },
+  "fullName": "Daniel Ewing",
+  "firstName": "Daniel",
+  "lastName": "Ewing",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 75.0,
+  "displayHeight": "6' 3\"",
+  "weightLb": 185.0,
+  "jersey": "5  ",
+  "birthPlace": "Missouri City, TX, USA",
+  "dateOfBirth": "1983-03-26",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2002,
+   2003,
+   2004,
+   2005
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5074",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "danny-ferry",
+  "externalIds": {
+   "espn": "71633"
+  },
+  "fullName": "Danny Ferry",
+  "firstName": "Danny",
+  "lastName": "Ferry",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 82.0,
+  "displayHeight": "6' 10\"",
+  "weightLb": 235.0,
+  "jersey": null,
+  "birthPlace": "Hyattsville, MD, USA",
+  "dateOfBirth": "1966-10-17",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2026
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/71633",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "kyle-filipowski",
+  "externalIds": {
+   "espn": "4684793"
+  },
+  "fullName": "Kyle Filipowski",
+  "firstName": "Kyle",
+  "lastName": "Filipowski",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 83.0,
+  "displayHeight": "6' 11\"",
+  "weightLb": 250.0,
+  "jersey": "30",
+  "birthPlace": "Westtown, NY, USA",
+  "dateOfBirth": "2003-11-07",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4684793.png",
+  "dukeSeasons": [
+   2023,
+   2024
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4684793",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "cooper-flagg",
+  "externalIds": {
+   "espn": "5041939"
+  },
+  "fullName": "Cooper Flagg",
+  "firstName": "Cooper",
+  "lastName": "Flagg",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 205.0,
+  "jersey": "2",
+  "birthPlace": "Newport, ME, USA",
+  "dateOfBirth": "2006-12-21",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5041939.png",
+  "dukeSeasons": [
+   2025
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5041939",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "caleb-foster",
+  "externalIds": {
+   "espn": "4711256"
+  },
+  "fullName": "Caleb Foster",
+  "firstName": "Caleb",
+  "lastName": "Foster",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 200.0,
+  "jersey": "1",
+  "birthPlace": "Harrisburg, NC, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4711256.png",
+  "dukeSeasons": [
+   2024,
+   2025,
+   2026,
+   2027
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4711256",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "michael-gbinije",
+  "externalIds": {
+   "espn": "56115"
+  },
+  "fullName": "Michael Gbinije",
+  "firstName": "Michael",
+  "lastName": "Gbinije",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 79.0,
+  "displayHeight": "6' 7\"",
+  "weightLb": 200.0,
+  "jersey": "0",
+  "birthPlace": "Richmond, VA, USA",
+  "dateOfBirth": "1992-06-05",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2012
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/56115",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "harry-giles-iii",
+  "externalIds": {
+   "espn": "4065649"
+  },
+  "fullName": "Harry Giles III",
+  "firstName": "Harry",
+  "lastName": "Giles III",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 82.0,
+  "displayHeight": "6' 10\"",
+  "weightLb": 240.0,
+  "jersey": "1",
+  "birthPlace": "Winston-Salem, NC, USA",
+  "dateOfBirth": "1998-04-22",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2017
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4065649",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "mason-gillis",
+  "externalIds": {
+   "espn": "4431753"
+  },
+  "fullName": "Mason Gillis",
+  "firstName": "Mason",
+  "lastName": "Gillis",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 225.0,
+  "jersey": "18",
+  "birthPlace": "New Castle, IN, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4431753.png",
+  "dukeSeasons": [
+   2025
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4431753",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jordan-goldwire",
+  "externalIds": {
+   "espn": "4277845"
+  },
+  "fullName": "Jordan Goldwire",
+  "firstName": "Jordan",
+  "lastName": "Goldwire",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 74.0,
+  "displayHeight": "6' 2\"",
+  "weightLb": 185.0,
+  "jersey": "0",
+  "birthPlace": "Norcross, GA, USA",
+  "dateOfBirth": "1999-06-18",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4277845.png",
+  "dukeSeasons": [
+   2018,
+   2019,
+   2020,
+   2021
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4277845",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jacob-grandison",
+  "externalIds": {
+   "espn": "4280073"
+  },
+  "fullName": "Jacob Grandison",
+  "firstName": "Jacob",
+  "lastName": "Grandison",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 190.0,
+  "jersey": "13",
+  "birthPlace": "Oakland, CA, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4280073.png",
+  "dukeSeasons": [
+   2023
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4280073",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "aj-griffin",
+  "externalIds": {
+   "espn": "4432585"
+  },
+  "fullName": "AJ Griffin",
+  "firstName": "AJ",
+  "lastName": "Griffin",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 220.0,
+  "jersey": null,
+  "birthPlace": "White Plains, NY, USA",
+  "dateOfBirth": "2003-08-25",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2022
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4432585",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "dick-groat",
+  "externalIds": {
+   "espn": "5154115"
+  },
+  "fullName": "Dick Groat",
+  "firstName": "Dick",
+  "lastName": "Groat",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2026
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5154115",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "josh-hairston",
+  "externalIds": {
+   "espn": "51266"
+  },
+  "fullName": "Josh Hairston",
+  "firstName": "Josh",
+  "lastName": "Hairston",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 235.0,
+  "jersey": "15",
+  "birthPlace": "Fredericksburg, VA, USA",
+  "dateOfBirth": "1992-01-12",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2011,
+   2012,
+   2013,
+   2014
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/51266",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "darren-harris",
+  "externalIds": {
+   "espn": "4873107"
+  },
+  "fullName": "Darren Harris",
+  "firstName": "Darren",
+  "lastName": "Harris",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 205.0,
+  "jersey": "1",
+  "birthPlace": "Herndon, VA, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4873107.png",
+  "dukeSeasons": [
+   2025,
+   2026
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4873107",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "gerald-henderson",
+  "externalIds": {
+   "espn": "31708"
+  },
+  "fullName": "Gerald Henderson",
+  "firstName": "Gerald",
+  "lastName": "Henderson",
+  "position": "Guard/Forward",
+  "positionAbbr": "G-F",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 215.0,
+  "jersey": "15 ",
+  "birthPlace": "Merion Station, PA, USA",
+  "dateOfBirth": "1987-12-09",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2007,
+   2008,
+   2009
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/31708",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "art-heyman",
+  "externalIds": {
+   "espn": "71624"
+  },
+  "fullName": "Art Heyman",
+  "firstName": "Art",
+  "lastName": "Heyman",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": "1941-06-24",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2026
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/71624",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "grant-hill",
+  "externalIds": {
+   "espn": "71656"
+  },
+  "fullName": "Grant Hill",
+  "firstName": "Grant",
+  "lastName": "Hill",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 225.0,
+  "jersey": null,
+  "birthPlace": "Reston, VA, USA",
+  "dateOfBirth": "1972-10-05",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2026
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/71656",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "rodney-hood",
+  "externalIds": {
+   "espn": "56359"
+  },
+  "fullName": "Rodney Hood",
+  "firstName": "Rodney",
+  "lastName": "Hood",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 208.0,
+  "jersey": "5",
+  "birthPlace": "Meridian, MS, USA",
+  "dateOfBirth": "1992-10-20",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2014
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/56359",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "nick-horvath",
+  "externalIds": {
+   "espn": "118"
+  },
+  "fullName": "Nick Horvath",
+  "firstName": "Nick",
+  "lastName": "Horvath",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 82.0,
+  "displayHeight": "6' 10\"",
+  "weightLb": 250.0,
+  "jersey": "3  ",
+  "birthPlace": "Shoreview, MN, USA",
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2002,
+   2003,
+   2004
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/118",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "bryson-howard",
+  "externalIds": {
+   "espn": "5287512"
+  },
+  "fullName": "Bryson Howard",
+  "firstName": "Bryson",
+  "lastName": "Howard",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 76.0,
+  "displayHeight": "6' 4\"",
+  "weightLb": 190.0,
+  "jersey": "12",
+  "birthPlace": "Dallas, TX, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5287512.png",
+  "dukeSeasons": [
+   2027
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5287512",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "spencer-hubbard",
+  "externalIds": {
+   "espn": "4897108"
+  },
+  "fullName": "Spencer Hubbard",
+  "firstName": "Spencer",
+  "lastName": "Hubbard",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 68.0,
+  "displayHeight": "5' 8\"",
+  "weightLb": 157.0,
+  "jersey": "55",
+  "birthPlace": "Los Angeles, CA, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4897108.png",
+  "dukeSeasons": [
+   2022,
+   2023,
+   2024,
+   2025
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4897108",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "bobby-hurley",
+  "externalIds": {
+   "espn": "71492"
+  },
+  "fullName": "Bobby Hurley",
+  "firstName": "Bobby",
+  "lastName": "Hurley",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2026
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/71492",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "matt-hurt",
+  "externalIds": {
+   "espn": "4431673"
+  },
+  "fullName": "Matt Hurt",
+  "firstName": "Matt",
+  "lastName": "Hurt",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 233.0,
+  "jersey": null,
+  "birthPlace": "Rochester, MN, USA",
+  "dateOfBirth": "2000-04-20",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4431673.png",
+  "dukeSeasons": [
+   2020,
+   2021
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4431673",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "brandon-ingram",
+  "externalIds": {
+   "espn": "3913176"
+  },
+  "fullName": "Brandon Ingram",
+  "firstName": "Brandon",
+  "lastName": "Ingram",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 190.0,
+  "jersey": "14",
+  "birthPlace": "Kinston, NC, USA",
+  "dateOfBirth": "1997-09-02",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2016
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/3913176",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "kyrie-irving",
+  "externalIds": {
+   "espn": "51267"
+  },
+  "fullName": "Kyrie Irving",
+  "firstName": "Kyrie",
+  "lastName": "Irving",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 74.0,
+  "displayHeight": "6' 2\"",
+  "weightLb": 195.0,
+  "jersey": "1  ",
+  "birthPlace": "Melbourne, VIC, Australia",
+  "dateOfBirth": "1992-03-23",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2011
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/51267",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "frank-jackson",
+  "externalIds": {
+   "espn": "4065651"
+  },
+  "fullName": "Frank Jackson",
+  "firstName": "Frank",
+  "lastName": "Jackson",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 75.0,
+  "displayHeight": "6' 3\"",
+  "weightLb": 205.0,
+  "jersey": "15",
+  "birthPlace": "Washington, DC, USA",
+  "dateOfBirth": "1998-05-04",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2017
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4065651",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "nate-james",
+  "externalIds": {
+   "espn": "123"
+  },
+  "fullName": "Nate James",
+  "firstName": "Nate",
+  "lastName": "James",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 200.0,
+  "jersey": "14 ",
+  "birthPlace": "Washington, DC, USA",
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2003
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/123",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "sion-james",
+  "externalIds": {
+   "espn": "4602025"
+  },
+  "fullName": "Sion James",
+  "firstName": "Sion",
+  "lastName": "James",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 220.0,
+  "jersey": "14",
+  "birthPlace": "Sugar Hill, GA, USA",
+  "dateOfBirth": "2002-12-04",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4602025.png",
+  "dukeSeasons": [
+   2025
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4602025",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "amile-jefferson",
+  "externalIds": {
+   "espn": "61586"
+  },
+  "fullName": "Amile Jefferson",
+  "firstName": "Amile",
+  "lastName": "Jefferson",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 222.0,
+  "jersey": "21",
+  "birthPlace": "Philadelphia, PA, USA",
+  "dateOfBirth": "1993-05-07",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2013,
+   2014,
+   2015,
+   2016,
+   2017
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/61586",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "chase-jeter",
+  "externalIds": {
+   "espn": "3913173"
+  },
+  "fullName": "Chase Jeter",
+  "firstName": "Chase",
+  "lastName": "Jeter",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 82.0,
+  "displayHeight": "6' 10\"",
+  "weightLb": 240.0,
+  "jersey": "4",
+  "birthPlace": "Las Vegas, NV, USA",
+  "dateOfBirth": "1997-09-19",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/3913173.png",
+  "dukeSeasons": [
+   2016,
+   2017
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/3913173",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "theo-john",
+  "externalIds": {
+   "espn": "4278569"
+  },
+  "fullName": "Theo John",
+  "firstName": "Theo",
+  "lastName": "John",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 242.0,
+  "jersey": "12",
+  "birthPlace": "Minneapolis, MN, USA",
+  "dateOfBirth": "1998-08-25",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4278569.png",
+  "dukeSeasons": [
+   2022
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4278569",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "max-johns",
+  "externalIds": {
+   "espn": "4398003"
+  },
+  "fullName": "Max Johns",
+  "firstName": "Max",
+  "lastName": "Johns",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 205.0,
+  "jersey": "41",
+  "birthPlace": "High Point, NC, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4398003.png",
+  "dukeSeasons": [
+   2023
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4398003",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jalen-johnson",
+  "externalIds": {
+   "espn": "4701230"
+  },
+  "fullName": "Jalen Johnson",
+  "firstName": "Jalen",
+  "lastName": "Johnson",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 219.0,
+  "jersey": "1",
+  "birthPlace": "Milwaukee, WI, USA",
+  "dateOfBirth": "2001-12-18",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4701230.png",
+  "dukeSeasons": [
+   2021
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4701230",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "patrick-johnson",
+  "externalIds": {
+   "espn": "14092"
+  },
+  "fullName": "Patrick Johnson",
+  "firstName": "Patrick",
+  "lastName": "Johnson",
+  "position": "Forward/Center",
+  "positionAbbr": "F-C",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 250.0,
+  "jersey": "51 ",
+  "birthPlace": "Atlanta, GA, USA",
+  "dateOfBirth": "2003-09-17",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2003,
+   2004,
+   2005,
+   2006
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/14092",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "steve-johnson",
+  "externalIds": {
+   "espn": "33552"
+  },
+  "fullName": "Steve Johnson",
+  "firstName": "Steve",
+  "lastName": "Johnson",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 210.0,
+  "jersey": "51 ",
+  "birthPlace": "Colorado Springs, CO, USA",
+  "dateOfBirth": "1988-02-01",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2007,
+   2009,
+   2010
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/33552",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "bates-jones",
+  "externalIds": {
+   "espn": "4278348"
+  },
+  "fullName": "Bates Jones",
+  "firstName": "Bates",
+  "lastName": "Jones",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 222.0,
+  "jersey": "34",
+  "birthPlace": "Charlotte, NC, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4278348.png",
+  "dukeSeasons": [
+   2022
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4278348",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "dahntay-jones",
+  "externalIds": {
+   "espn": "4170"
+  },
+  "fullName": "Dahntay Jones",
+  "firstName": "Dahntay",
+  "lastName": "Jones",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 225.0,
+  "jersey": "30 ",
+  "birthPlace": "Trenton, NJ, USA",
+  "dateOfBirth": "1980-12-27",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2002,
+   2003
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4170",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "matt-jones",
+  "externalIds": {
+   "espn": "66563"
+  },
+  "fullName": "Matt Jones",
+  "firstName": "Matt",
+  "lastName": "Jones",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 204.0,
+  "jersey": "13",
+  "birthPlace": "DeSoto, TX, USA",
+  "dateOfBirth": "1994-12-05",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2014,
+   2015,
+   2016,
+   2017
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/66563",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "tre-jones",
+  "externalIds": {
+   "espn": "4395626"
+  },
+  "fullName": "Tre Jones",
+  "firstName": "Tre",
+  "lastName": "Jones",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 73.0,
+  "displayHeight": "6' 1\"",
+  "weightLb": 185.0,
+  "jersey": "3",
+  "birthPlace": "Apple Valley, MN, USA",
+  "dateOfBirth": "2000-01-08",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4395626.png",
+  "dukeSeasons": [
+   2019,
+   2020
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4395626",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "tyus-jones",
+  "externalIds": {
+   "espn": "3135046"
+  },
+  "fullName": "Tyus Jones",
+  "firstName": "Tyus",
+  "lastName": "Jones",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 72.0,
+  "displayHeight": "6' 0\"",
+  "weightLb": 196.0,
+  "jersey": "5",
+  "birthPlace": "Burnsville, MN, USA",
+  "dateOfBirth": "1996-05-10",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2015
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/3135046",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "trevor-keels",
+  "externalIds": {
+   "espn": "4432645"
+  },
+  "fullName": "Trevor Keels",
+  "firstName": "Trevor",
+  "lastName": "Keels",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 215.0,
+  "jersey": "1",
+  "birthPlace": "Clinton, MD, USA",
+  "dateOfBirth": "2003-08-26",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4432645.png",
+  "dukeSeasons": [
+   2022
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4432645",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "ryan-kelly",
+  "externalIds": {
+   "espn": "45911"
+  },
+  "fullName": "Ryan Kelly",
+  "firstName": "Ryan",
+  "lastName": "Kelly",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 83.0,
+  "displayHeight": "6' 11\"",
+  "weightLb": 230.0,
+  "jersey": "34 ",
+  "birthPlace": "Raleigh, NC, USA",
+  "dateOfBirth": "1991-04-09",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2010,
+   2011,
+   2012,
+   2013
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/45911",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "sean-kelly",
+  "externalIds": {
+   "espn": "3135049"
+  },
+  "fullName": "Sean Kelly",
+  "firstName": "Sean",
+  "lastName": "Kelly",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 75.0,
+  "displayHeight": "6' 3\"",
+  "weightLb": 195.0,
+  "jersey": "42",
+  "birthPlace": "Raleigh, NC, USA",
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2015
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/3135049",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "luke-kennard",
+  "externalIds": {
+   "espn": "3913174"
+  },
+  "fullName": "Luke Kennard",
+  "firstName": "Luke",
+  "lastName": "Kennard",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 206.0,
+  "jersey": "5",
+  "birthPlace": "Middletown, OH, USA",
+  "dateOfBirth": "1996-06-24",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2016,
+   2017
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/3913174",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "nik-khamenia",
+  "externalIds": {
+   "espn": "5144124"
+  },
+  "fullName": "Nik Khamenia",
+  "firstName": "Nik",
+  "lastName": "Khamenia",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 225.0,
+  "jersey": "4",
+  "birthPlace": "Tarzana, CA, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5144124.png",
+  "dukeSeasons": [
+   2026
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5144124",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "matt-kiefer",
+  "externalIds": {
+   "espn": "25202"
+  },
+  "fullName": "Matt Kiefer",
+  "firstName": "Matt",
+  "lastName": "Kiefer",
+  "position": "Not Available",
+  "positionAbbr": "NA",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2004
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/25202",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "taylor-king",
+  "externalIds": {
+   "espn": "36155"
+  },
+  "fullName": "Taylor King",
+  "firstName": "Taylor",
+  "lastName": "King",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 230.0,
+  "jersey": "31 ",
+  "birthPlace": "Huntington Beach, CA, USA",
+  "dateOfBirth": "1988-05-30",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2008
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/36155",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "kon-knueppel",
+  "externalIds": {
+   "espn": "5061575"
+  },
+  "fullName": "Kon Knueppel",
+  "firstName": "Kon",
+  "lastName": "Knueppel",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 215.0,
+  "jersey": "7",
+  "birthPlace": "Milwaukee, WI, USA",
+  "dateOfBirth": "2005-08-03",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5061575.png",
+  "dukeSeasons": [
+   2025
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5061575",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "christian-laettner",
+  "externalIds": {
+   "espn": "71601"
+  },
+  "fullName": "Christian Laettner",
+  "firstName": "Christian",
+  "lastName": "Laettner",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 83.0,
+  "displayHeight": "6' 11\"",
+  "weightLb": 245.0,
+  "jersey": null,
+  "birthPlace": "Angola, NY, USA",
+  "dateOfBirth": "1969-08-17",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2026
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/71601",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "carl-landry",
+  "externalIds": {
+   "espn": "25200"
+  },
+  "fullName": "Carl Landry",
+  "firstName": "Carl",
+  "lastName": "Landry",
+  "position": "Not Available",
+  "positionAbbr": "NA",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2004
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/25200",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "dereck-lively-ii",
+  "externalIds": {
+   "espn": "4683688"
+  },
+  "fullName": "Dereck Lively II",
+  "firstName": "Dereck",
+  "lastName": "Lively II",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 85.0,
+  "displayHeight": "7' 1\"",
+  "weightLb": 230.0,
+  "jersey": "1",
+  "birthPlace": "Philadelphia, PA, USA",
+  "dateOfBirth": "2004-02-12",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4683688.png",
+  "dukeSeasons": [
+   2023
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4683688",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "dereck-lively-ii-5179684",
+  "externalIds": {
+   "espn": "5179684"
+  },
+  "fullName": "Dereck Lively Ii",
+  "firstName": "Dereck",
+  "lastName": "Lively Ii",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2026
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5179684",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "reggie-love",
+  "externalIds": {
+   "espn": "4171"
+  },
+  "fullName": "Reggie Love",
+  "firstName": "Reggie",
+  "lastName": "Love",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 76.0,
+  "displayHeight": "6' 4\"",
+  "weightLb": 225.0,
+  "jersey": "30 ",
+  "birthPlace": "Charlotte, NC, USA",
+  "dateOfBirth": "1981-06-21",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2002,
+   2005
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4171",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "khaman-maluach",
+  "externalIds": {
+   "espn": "5203685"
+  },
+  "fullName": "Khaman Maluach",
+  "firstName": "Khaman",
+  "lastName": "Maluach",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 86.0,
+  "displayHeight": "7' 2\"",
+  "weightLb": 250.0,
+  "jersey": "9",
+  "birthPlace": "Rumbek, South Sudan",
+  "dateOfBirth": "2006-09-14",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5203685.png",
+  "dukeSeasons": [
+   2025
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5203685",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "david-mayer",
+  "externalIds": {
+   "espn": "55966"
+  },
+  "fullName": "David Mayer",
+  "firstName": "David",
+  "lastName": "Mayer",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 76.0,
+  "displayHeight": "6' 4\"",
+  "weightLb": 200.0,
+  "jersey": "51 ",
+  "birthPlace": "Durham, NC, USA",
+  "dateOfBirth": "1992-01-20",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2012
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/55966",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jared-mccain",
+  "externalIds": {
+   "espn": "4683778"
+  },
+  "fullName": "Jared McCain",
+  "firstName": "Jared",
+  "lastName": "McCain",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 75.0,
+  "displayHeight": "6' 3\"",
+  "weightLb": 195.0,
+  "jersey": "0",
+  "birthPlace": "Sacramento, CA, USA",
+  "dateOfBirth": "2004-02-20",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4683778.png",
+  "dukeSeasons": [
+   2024
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4683778",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "david-mcclure",
+  "externalIds": {
+   "espn": "22216"
+  },
+  "fullName": "David McClure",
+  "firstName": "David",
+  "lastName": "McClure",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 215.0,
+  "jersey": "14 ",
+  "birthPlace": "Ridgefield, CT, USA",
+  "dateOfBirth": "1986-04-01",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2005,
+   2007,
+   2008,
+   2009
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/22216",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "josh-mcroberts",
+  "externalIds": {
+   "espn": "27022"
+  },
+  "fullName": "Josh McRoberts",
+  "firstName": "Josh",
+  "lastName": "McRoberts",
+  "position": "Forward/Center",
+  "positionAbbr": "F-C",
+  "heightIn": 82.0,
+  "displayHeight": "6' 10\"",
+  "weightLb": 240.0,
+  "jersey": "2  ",
+  "birthPlace": "Carmel, IN, USA",
+  "dateOfBirth": "1987-02-28",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2006,
+   2007
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/27022",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "brandon-mcknight",
+  "externalIds": {
+   "espn": "25207"
+  },
+  "fullName": "Brandon Mcknight",
+  "firstName": "Brandon",
+  "lastName": "Mcknight",
+  "position": "Not Available",
+  "positionAbbr": "NA",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2004
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/25207",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "andy-means",
+  "externalIds": {
+   "espn": "5075"
+  },
+  "fullName": "Andy Means",
+  "firstName": "Andy",
+  "lastName": "Means",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 200.0,
+  "jersey": "53 ",
+  "birthPlace": "Indianapolis, IN, USA",
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2002,
+   2003
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5075",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "lee-melchionni",
+  "externalIds": {
+   "espn": "11142"
+  },
+  "fullName": "Lee Melchionni",
+  "firstName": "Lee",
+  "lastName": "Melchionni",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 205.0,
+  "jersey": "13 ",
+  "birthPlace": "Lancaster, PA, USA",
+  "dateOfBirth": "2003-09-17",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2003,
+   2004,
+   2005,
+   2006
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/11142",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "maxime-meyer",
+  "externalIds": {
+   "espn": "5323930"
+  },
+  "fullName": "Maxime Meyer",
+  "firstName": "Maxime",
+  "lastName": "Meyer",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 85.0,
+  "displayHeight": "7' 1\"",
+  "weightLb": 225.0,
+  "jersey": "15",
+  "birthPlace": "Toronto, ON, Canada",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5323930.png",
+  "dukeSeasons": [
+   2027
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5323930",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "mark-mitchell-jr",
+  "externalIds": {
+   "espn": "4433285"
+  },
+  "fullName": "Mark Mitchell Jr.",
+  "firstName": "Mark",
+  "lastName": "Mitchell Jr.",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 230.0,
+  "jersey": "25",
+  "birthPlace": "Kansas City, KS, USA",
+  "dateOfBirth": "2003-09-01",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4433285.png",
+  "dukeSeasons": [
+   2023,
+   2024
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4433285",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "wendell-moore-jr",
+  "externalIds": {
+   "espn": "4592187"
+  },
+  "fullName": "Wendell Moore Jr.",
+  "firstName": "Wendell",
+  "lastName": "Moore Jr.",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 215.0,
+  "jersey": "0",
+  "birthPlace": "Charlotte, NC, USA",
+  "dateOfBirth": "2001-09-18",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4592187.png",
+  "dukeSeasons": [
+   2020,
+   2021,
+   2022
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4592187",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "alex-murphy",
+  "externalIds": {
+   "espn": "56114"
+  },
+  "fullName": "Alex Murphy",
+  "firstName": "Alex",
+  "lastName": "Murphy",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 225.0,
+  "jersey": "0",
+  "birthPlace": "Wakefield, RI, USA",
+  "dateOfBirth": "1993-06-03",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2013,
+   2014
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/56114",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "demarcus-nelson",
+  "externalIds": {
+   "espn": "22217"
+  },
+  "fullName": "DeMarcus Nelson",
+  "firstName": "DeMarcus",
+  "lastName": "Nelson",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 76.0,
+  "displayHeight": "6' 4\"",
+  "weightLb": 200.0,
+  "jersey": "21 ",
+  "birthPlace": "Elk Grove, CA, USA",
+  "dateOfBirth": "2004-09-30",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2005,
+   2006,
+   2007,
+   2008
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/22217",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "patrick-ngongba-ii",
+  "externalIds": {
+   "espn": "4873209"
+  },
+  "fullName": "Patrick Ngongba II",
+  "firstName": "Patrick",
+  "lastName": "Ngongba II",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 83.0,
+  "displayHeight": "6' 11\"",
+  "weightLb": 250.0,
+  "jersey": "21",
+  "birthPlace": "Manassas, VA, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4873209.png",
+  "dukeSeasons": [
+   2025,
+   2026,
+   2027
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4873209",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "tom-novick",
+  "externalIds": {
+   "espn": "22562"
+  },
+  "fullName": "Tom Novick",
+  "firstName": "Tom",
+  "lastName": "Novick",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 190.0,
+  "jersey": "50 ",
+  "birthPlace": "Charlotte, NC, USA",
+  "dateOfBirth": "2004-10-15",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2005
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/22562",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "null",
+  "externalIds": {
+   "espn": "3960466"
+  },
+  "fullName": "- Null",
+  "firstName": "-",
+  "lastName": "Null",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2016
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/3960466",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "alex-o-connell",
+  "externalIds": {
+   "espn": "4277846"
+  },
+  "fullName": "Alex O'Connell",
+  "firstName": "Alex",
+  "lastName": "O'Connell",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 185.0,
+  "jersey": null,
+  "birthPlace": "Roswell, GA, USA",
+  "dateOfBirth": "1999-06-02",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4277846.png",
+  "dukeSeasons": [
+   2018,
+   2019,
+   2020
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4277846",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "sean-obi",
+  "externalIds": {
+   "espn": "66760"
+  },
+  "fullName": "Sean Obi",
+  "firstName": "Sean",
+  "lastName": "Obi",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 250.0,
+  "jersey": "0",
+  "birthPlace": "Kaduna, Nigeria",
+  "dateOfBirth": "1995-01-16",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2016
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/66760",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "semi-ojeleye",
+  "externalIds": {
+   "espn": "66915"
+  },
+  "fullName": "Semi Ojeleye",
+  "firstName": "Semi",
+  "lastName": "Ojeleye",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 240.0,
+  "jersey": "33",
+  "birthPlace": "Ottawa, KS, USA",
+  "dateOfBirth": "1994-12-05",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2014,
+   2015
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/66915",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jahlil-okafor",
+  "externalIds": {
+   "espn": "3135048"
+  },
+  "fullName": "Jahlil Okafor",
+  "firstName": "Jahlil",
+  "lastName": "Okafor",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 82.0,
+  "displayHeight": "6' 10\"",
+  "weightLb": 270.0,
+  "jersey": "15",
+  "birthPlace": "Chicago, IL, USA",
+  "dateOfBirth": "1995-12-15",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2015
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/3135048",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "joe-pagliuca",
+  "externalIds": {
+   "espn": "21898"
+  },
+  "fullName": "Joe Pagliuca",
+  "firstName": "Joe",
+  "lastName": "Pagliuca",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 74.0,
+  "displayHeight": "6' 2\"",
+  "weightLb": 185.0,
+  "jersey": "45 ",
+  "birthPlace": "Weston, MA, USA",
+  "dateOfBirth": "2003-11-13",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2004,
+   2005,
+   2006,
+   2007
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/21898",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "nick-pagliuca",
+  "externalIds": {
+   "espn": "66630"
+  },
+  "fullName": "Nick Pagliuca",
+  "firstName": "Nick",
+  "lastName": "Pagliuca",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 75.0,
+  "displayHeight": "6' 3\"",
+  "weightLb": 195.0,
+  "jersey": "45",
+  "birthPlace": "Weston, MA, USA",
+  "dateOfBirth": "1994-06-15",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2014,
+   2015,
+   2016,
+   2017
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/66630",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jabari-parker",
+  "externalIds": {
+   "espn": "66562"
+  },
+  "fullName": "Jabari Parker",
+  "firstName": "Jabari",
+  "lastName": "Parker",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 245.0,
+  "jersey": "1",
+  "birthPlace": "Chicago, IL, USA",
+  "dateOfBirth": "1995-03-15",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2014
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/66562",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "greg-paulus",
+  "externalIds": {
+   "espn": "27023"
+  },
+  "fullName": "Greg Paulus",
+  "firstName": "Greg",
+  "lastName": "Paulus",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 73.0,
+  "displayHeight": "6' 1\"",
+  "weightLb": 185.0,
+  "jersey": "3  ",
+  "birthPlace": "Syracuse, NY, USA",
+  "dateOfBirth": "1986-07-03",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2006,
+   2007,
+   2008,
+   2009
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/27023",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "ross-perkins",
+  "externalIds": {
+   "espn": "23713"
+  },
+  "fullName": "Ross Perkins",
+  "firstName": "Ross",
+  "lastName": "Perkins",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 76.0,
+  "displayHeight": "6' 4\"",
+  "weightLb": 200.0,
+  "jersey": "40 ",
+  "birthPlace": "Greensboro, NC, USA",
+  "dateOfBirth": "2004-09-30",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2005,
+   2006
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/23713",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "casey-peters",
+  "externalIds": {
+   "espn": "45912"
+  },
+  "fullName": "Casey Peters",
+  "firstName": "Casey",
+  "lastName": "Peters",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 76.0,
+  "displayHeight": "6' 4\"",
+  "weightLb": 200.0,
+  "jersey": "53 ",
+  "birthPlace": "Red Bank, NJ, USA",
+  "dateOfBirth": "1988-08-13",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2010,
+   2011
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/45912",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "marshall-plumlee",
+  "externalIds": {
+   "espn": "56116"
+  },
+  "fullName": "Marshall Plumlee",
+  "firstName": "Marshall",
+  "lastName": "Plumlee",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 84.0,
+  "displayHeight": "7' 0\"",
+  "weightLb": 250.0,
+  "jersey": "40",
+  "birthPlace": "Warsaw, IN, USA",
+  "dateOfBirth": "1992-07-14",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2013,
+   2014,
+   2015,
+   2016
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/56116",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "mason-plumlee",
+  "externalIds": {
+   "espn": "45913"
+  },
+  "fullName": "Mason Plumlee",
+  "firstName": "Mason",
+  "lastName": "Plumlee",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 84.0,
+  "displayHeight": "7' 0\"",
+  "weightLb": 254.0,
+  "jersey": "5  ",
+  "birthPlace": "Fort Wayne, IN, USA",
+  "dateOfBirth": "1990-03-05",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2010,
+   2011,
+   2012,
+   2013
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/45913",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "miles-plumlee",
+  "externalIds": {
+   "espn": "41720"
+  },
+  "fullName": "Miles Plumlee",
+  "firstName": "Miles",
+  "lastName": "Plumlee",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 83.0,
+  "displayHeight": "6' 11\"",
+  "weightLb": 249.0,
+  "jersey": "21 ",
+  "birthPlace": "Warsaw, IN, USA",
+  "dateOfBirth": "1988-09-01",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2009,
+   2010,
+   2011,
+   2012
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/41720",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "martynas-pocius",
+  "externalIds": {
+   "espn": "27024"
+  },
+  "fullName": "Martynas Pocius",
+  "firstName": "Martynas",
+  "lastName": "Pocius",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 190.0,
+  "jersey": "5  ",
+  "birthPlace": "Vilnius, Lithuania",
+  "dateOfBirth": "1986-04-28",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2006,
+   2007,
+   2008,
+   2009
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/27024",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "tj-power",
+  "externalIds": {
+   "espn": "4684843"
+  },
+  "fullName": "TJ Power",
+  "firstName": "TJ",
+  "lastName": "Power",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 220.0,
+  "jersey": "12",
+  "birthPlace": "Shrewsbury, MA, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4684843.png",
+  "dukeSeasons": [
+   2024
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4684843",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "xavier-price",
+  "externalIds": {
+   "espn": "25215"
+  },
+  "fullName": "Xavier Price",
+  "firstName": "Xavier",
+  "lastName": "Price",
+  "position": "Not Available",
+  "positionAbbr": "NA",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2004
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/25215",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "tyrese-proctor",
+  "externalIds": {
+   "espn": "5023693"
+  },
+  "fullName": "Tyrese Proctor",
+  "firstName": "Tyrese",
+  "lastName": "Proctor",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 76.0,
+  "displayHeight": "6' 4\"",
+  "weightLb": 185.0,
+  "jersey": "5",
+  "birthPlace": "Sydney, NSW, Australia",
+  "dateOfBirth": "2004-04-01",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5023693.png",
+  "dukeSeasons": [
+   2023,
+   2024,
+   2025
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5023693",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "shavlik-randolph",
+  "externalIds": {
+   "espn": "11143"
+  },
+  "fullName": "Shavlik Randolph",
+  "firstName": "Shavlik",
+  "lastName": "Randolph",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 82.0,
+  "displayHeight": "6' 10\"",
+  "weightLb": 245.0,
+  "jersey": "42 ",
+  "birthPlace": "Raleigh, NC, USA",
+  "dateOfBirth": "1983-11-24",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2003,
+   2004,
+   2005
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/11143",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "cam-reddish",
+  "externalIds": {
+   "espn": "4395627"
+  },
+  "fullName": "Cam Reddish",
+  "firstName": "Cam",
+  "lastName": "Reddish",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 79.0,
+  "displayHeight": "6' 7\"",
+  "weightLb": 217.0,
+  "jersey": "2",
+  "birthPlace": "Norristown, PA, USA",
+  "dateOfBirth": "1999-09-01",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4395627.png",
+  "dukeSeasons": [
+   2019
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4395627",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jj-redick",
+  "externalIds": {
+   "espn": "11144"
+  },
+  "fullName": "JJ Redick",
+  "firstName": "JJ",
+  "lastName": "Redick",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 75.0,
+  "displayHeight": "6' 3\"",
+  "weightLb": 200.0,
+  "jersey": null,
+  "birthPlace": "Cookeville, TN, USA",
+  "dateOfBirth": "1984-06-24",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2003,
+   2004,
+   2005,
+   2006
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/11144",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "christian-reeves",
+  "externalIds": {
+   "espn": "5105444"
+  },
+  "fullName": "Christian Reeves",
+  "firstName": "Christian",
+  "lastName": "Reeves",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 86.0,
+  "displayHeight": "7' 2\"",
+  "weightLb": 260.0,
+  "jersey": "32",
+  "birthPlace": "Charlotte, NC, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105444.png",
+  "dukeSeasons": [
+   2023,
+   2024
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5105444",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "deron-rippey-jr",
+  "externalIds": {
+   "espn": "5144476"
+  },
+  "fullName": "Deron Rippey Jr.",
+  "firstName": "Deron",
+  "lastName": "Rippey Jr.",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 75.0,
+  "displayHeight": "6' 3\"",
+  "weightLb": 185.0,
+  "jersey": "3",
+  "birthPlace": "Brooklyn, NY, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5144476.png",
+  "dukeSeasons": [
+   2027
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5144476",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "austin-rivers",
+  "externalIds": {
+   "espn": "56112"
+  },
+  "fullName": "Austin Rivers",
+  "firstName": "Austin",
+  "lastName": "Rivers",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 76.0,
+  "displayHeight": "6' 4\"",
+  "weightLb": 200.0,
+  "jersey": null,
+  "birthPlace": "Winter Park, FL, USA",
+  "dateOfBirth": "1992-08-01",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2012
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/56112",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jeremy-roach",
+  "externalIds": {
+   "espn": "4433135"
+  },
+  "fullName": "Jeremy Roach",
+  "firstName": "Jeremy",
+  "lastName": "Roach",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 74.0,
+  "displayHeight": "6' 2\"",
+  "weightLb": 180.0,
+  "jersey": "3",
+  "birthPlace": "Leesburg, VA, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4433135.png",
+  "dukeSeasons": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4433135",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "justin-robinson",
+  "externalIds": {
+   "espn": "3913178"
+  },
+  "fullName": "Justin Robinson",
+  "firstName": "Justin",
+  "lastName": "Robinson",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 202.0,
+  "jersey": "50",
+  "birthPlace": "San Antonio, TX, USA",
+  "dateOfBirth": "1996-10-14",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/3913178.png",
+  "dukeSeasons": [
+   2016,
+   2017,
+   2018,
+   2019,
+   2020
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/3913178",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "casey-sanders",
+  "externalIds": {
+   "espn": "125"
+  },
+  "fullName": "Casey Sanders",
+  "firstName": "Casey",
+  "lastName": "Sanders",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 83.0,
+  "displayHeight": "6' 11\"",
+  "weightLb": 235.0,
+  "jersey": "20 ",
+  "birthPlace": "Tampa, FL, USA",
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2002,
+   2003
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/125",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "dame-sarr",
+  "externalIds": {
+   "espn": "5287474"
+  },
+  "fullName": "Dame Sarr",
+  "firstName": "Dame",
+  "lastName": "Sarr",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 200.0,
+  "jersey": "7",
+  "birthPlace": "Oderzo, Italy",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5287474.png",
+  "dukeSeasons": [
+   2026,
+   2027
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5287474",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "michael-savarino",
+  "externalIds": {
+   "espn": "4592188"
+  },
+  "fullName": "Michael Savarino",
+  "firstName": "Michael",
+  "lastName": "Savarino",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 72.0,
+  "displayHeight": "6' 0\"",
+  "weightLb": 182.0,
+  "jersey": "30",
+  "birthPlace": "Durham, NC, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4592188.png",
+  "dukeSeasons": [
+   2021,
+   2022
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4592188",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "drew-scharnowski",
+  "externalIds": {
+   "espn": "5176309"
+  },
+  "fullName": "Drew Scharnowski",
+  "firstName": "Drew",
+  "lastName": "Scharnowski",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 82.0,
+  "displayHeight": "6' 10\"",
+  "weightLb": 240.0,
+  "jersey": "8",
+  "birthPlace": "Burlington, IL, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176309.png",
+  "dukeSeasons": [
+   2027
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5176309",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jon-scheyer",
+  "externalIds": {
+   "espn": "31709"
+  },
+  "fullName": "Jon Scheyer",
+  "firstName": "Jon",
+  "lastName": "Scheyer",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 190.0,
+  "jersey": "30 ",
+  "birthPlace": "Northbrook, IL, USA",
+  "dateOfBirth": "1987-08-24",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/31709.png",
+  "dukeSeasons": [
+   2007,
+   2008,
+   2009,
+   2010
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/31709",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jaden-schutt",
+  "externalIds": {
+   "espn": "4712846"
+  },
+  "fullName": "Jaden Schutt",
+  "firstName": "Jaden",
+  "lastName": "Schutt",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 200.0,
+  "jersey": "2",
+  "birthPlace": "Yorkville, IL, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4712846.png",
+  "dukeSeasons": [
+   2023
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4712846",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jack-scott",
+  "externalIds": {
+   "espn": "4888720"
+  },
+  "fullName": "Jack Scott",
+  "firstName": "Jack",
+  "lastName": "Scott",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 220.0,
+  "jersey": "20",
+  "birthPlace": "Pelican Island, NJ, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4888720.png",
+  "dukeSeasons": [
+   2026
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4888720",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "cameron-sheffield",
+  "externalIds": {
+   "espn": "4432321"
+  },
+  "fullName": "Cameron Sheffield",
+  "firstName": "Cameron",
+  "lastName": "Sheffield",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 205.0,
+  "jersey": "13",
+  "birthPlace": "Alpharetta, GA, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4432321.png",
+  "dukeSeasons": [
+   2025,
+   2026
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4432321",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "j-d-simpson",
+  "externalIds": {
+   "espn": "122"
+  },
+  "fullName": "J.D. Simpson",
+  "firstName": "J.D.",
+  "lastName": "Simpson",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 76.0,
+  "displayHeight": "6' 4\"",
+  "weightLb": 193.0,
+  "jersey": "13 ",
+  "birthPlace": "Woodside, CA, USA",
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2003
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/122",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "kyle-singler",
+  "externalIds": {
+   "espn": "36156"
+  },
+  "fullName": "Kyle Singler",
+  "firstName": "Kyle",
+  "lastName": "Singler",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 228.0,
+  "jersey": "12 ",
+  "birthPlace": "Medford, OR, USA",
+  "dateOfBirth": "1988-05-04",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2008,
+   2009,
+   2010,
+   2011
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/36156",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "nolan-smith",
+  "externalIds": {
+   "espn": "36157"
+  },
+  "fullName": "Nolan Smith",
+  "firstName": "Nolan",
+  "lastName": "Smith",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 74.0,
+  "displayHeight": "6' 2\"",
+  "weightLb": 185.0,
+  "jersey": "2  ",
+  "birthPlace": "Mouth Of Wilson, VA, USA",
+  "dateOfBirth": "1988-07-25",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2008,
+   2009,
+   2010,
+   2011
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/36157",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "cassius-stanley",
+  "externalIds": {
+   "espn": "4431686"
+  },
+  "fullName": "Cassius Stanley",
+  "firstName": "Cassius",
+  "lastName": "Stanley",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 190.0,
+  "jersey": "2",
+  "birthPlace": "Los Angeles, CA, USA",
+  "dateOfBirth": "1999-08-18",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4431686.png",
+  "dukeSeasons": [
+   2020
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4431686",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "dj-steward",
+  "externalIds": {
+   "espn": "4701231"
+  },
+  "fullName": "DJ Steward",
+  "firstName": "DJ",
+  "lastName": "Steward",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 74.0,
+  "displayHeight": "6' 2\"",
+  "weightLb": 162.0,
+  "jersey": null,
+  "birthPlace": "Chicago, IL, USA",
+  "dateOfBirth": "2001-10-02",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4701231.png",
+  "dukeSeasons": [
+   2021
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4701231",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "sean-stewart",
+  "externalIds": {
+   "espn": "4869739"
+  },
+  "fullName": "Sean Stewart",
+  "firstName": "Sean",
+  "lastName": "Stewart",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 220.0,
+  "jersey": "13",
+  "birthPlace": "Windermere, FL, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4869739.png",
+  "dukeSeasons": [
+   2024
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4869739",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "rasheed-sulaimon",
+  "externalIds": {
+   "espn": "61585"
+  },
+  "fullName": "Rasheed Sulaimon",
+  "firstName": "Rasheed",
+  "lastName": "Sulaimon",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 76.0,
+  "displayHeight": "6' 4\"",
+  "weightLb": 190.0,
+  "jersey": "0",
+  "birthPlace": "Houston, TX, USA",
+  "dateOfBirth": "1994-03-09",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2013,
+   2014,
+   2015
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/61585",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "nick-sutton",
+  "externalIds": {
+   "espn": "33551"
+  },
+  "fullName": "Nick Sutton",
+  "firstName": "Nick",
+  "lastName": "Sutton",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 74.0,
+  "displayHeight": "6' 2\"",
+  "weightLb": 180.0,
+  "jersey": "13 ",
+  "birthPlace": "Kentfield, CA, USA",
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2007
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/33551",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "patrick-tape",
+  "externalIds": {
+   "espn": "4066805"
+  },
+  "fullName": "Patrick Tape",
+  "firstName": "Patrick",
+  "lastName": "Tape",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 82.0,
+  "displayHeight": "6' 10\"",
+  "weightLb": 240.0,
+  "jersey": "11",
+  "birthPlace": "Charlotte, NC, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4066805.png",
+  "dukeSeasons": [
+   2021
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4066805",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jayson-tatum",
+  "externalIds": {
+   "espn": "4065648"
+  },
+  "fullName": "Jayson Tatum",
+  "firstName": "Jayson",
+  "lastName": "Tatum",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 224.0,
+  "jersey": "0",
+  "birthPlace": "St. Louis, MO, USA",
+  "dateOfBirth": "1998-03-03",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2017
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4065648",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "david-teague",
+  "externalIds": {
+   "espn": "25211"
+  },
+  "fullName": "David Teague",
+  "firstName": "David",
+  "lastName": "Teague",
+  "position": "Not Available",
+  "positionAbbr": "NA",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2004
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/25211",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jacob-theodosiou",
+  "externalIds": {
+   "espn": "5176286"
+  },
+  "fullName": "Jacob Theodosiou",
+  "firstName": "Jacob",
+  "lastName": "Theodosiou",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 76.0,
+  "displayHeight": "6' 4\"",
+  "weightLb": 205.0,
+  "jersey": "26",
+  "birthPlace": "Waterloo, ON, Canada",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176286.png",
+  "dukeSeasons": [
+   2027
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5176286",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "lance-thomas",
+  "externalIds": {
+   "espn": "31710"
+  },
+  "fullName": "Lance Thomas",
+  "firstName": "Lance",
+  "lastName": "Thomas",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 225.0,
+  "jersey": "42 ",
+  "birthPlace": "Scotch Plains, NJ, USA",
+  "dateOfBirth": "1988-04-24",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2007,
+   2008,
+   2009,
+   2010
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/31710",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "michael-thompson",
+  "externalIds": {
+   "espn": "11145"
+  },
+  "fullName": "Michael Thompson",
+  "firstName": "Michael",
+  "lastName": "Thompson",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 70.0,
+  "displayHeight": "5' 10\"",
+  "weightLb": 190.0,
+  "jersey": "22 ",
+  "birthPlace": "Chicago, IL, USA",
+  "dateOfBirth": "1989-02-09",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2003,
+   2004
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/11145",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "derryck-thornton",
+  "externalIds": {
+   "espn": "3913175"
+  },
+  "fullName": "Derryck Thornton",
+  "firstName": "Derryck",
+  "lastName": "Thornton",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 75.0,
+  "displayHeight": "6' 3\"",
+  "weightLb": 195.0,
+  "jersey": "11",
+  "birthPlace": "Los Angeles, CA, USA",
+  "dateOfBirth": "1997-05-30",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/3913175.png",
+  "dukeSeasons": [
+   2016
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/3913175",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "tyler-thornton",
+  "externalIds": {
+   "espn": "51268"
+  },
+  "fullName": "Tyler Thornton",
+  "firstName": "Tyler",
+  "lastName": "Thornton",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 74.0,
+  "displayHeight": "6' 2\"",
+  "weightLb": 190.0,
+  "jersey": "3",
+  "birthPlace": "Washington, DC, USA",
+  "dateOfBirth": "1992-04-05",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2011,
+   2012,
+   2013,
+   2014
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/51268",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "griffin-tormey",
+  "externalIds": {
+   "espn": "35784"
+  },
+  "fullName": "Griffin Tormey",
+  "firstName": "Griffin",
+  "lastName": "Tormey",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 71.0,
+  "displayHeight": "5' 11\"",
+  "weightLb": 165.0,
+  "jersey": "40 ",
+  "birthPlace": "Chicago, IL, USA",
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2007
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/35784",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "gary-trent-jr",
+  "externalIds": {
+   "espn": "4277843"
+  },
+  "fullName": "Gary Trent Jr.",
+  "firstName": "Gary",
+  "lastName": "Trent Jr.",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 204.0,
+  "jersey": "2",
+  "birthPlace": "Columbus, OH, USA",
+  "dateOfBirth": "1999-01-18",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2018
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4277843",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jordan-tucker",
+  "externalIds": {
+   "espn": "4277844"
+  },
+  "fullName": "Jordan Tucker",
+  "firstName": "Jordan",
+  "lastName": "Tucker",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 210.0,
+  "jersey": "1",
+  "birthPlace": "White Plains, NY, USA",
+  "dateOfBirth": "1998-04-03",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4277844.png",
+  "dukeSeasons": [
+   2018
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4277844",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "ifeanyi-ufochukwu",
+  "externalIds": {
+   "espn": "5107141"
+  },
+  "fullName": "Ifeanyi Ufochukwu",
+  "firstName": "Ifeanyi",
+  "lastName": "Ufochukwu",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 83.0,
+  "displayHeight": "6' 11\"",
+  "weightLb": 240.0,
+  "jersey": "15",
+  "birthPlace": "Benin City, Nigeria",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5107141.png",
+  "dukeSeasons": [
+   2026
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5107141",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "unknown-unknown",
+  "externalIds": {
+   "espn": "3085090"
+  },
+  "fullName": "Unknown  Unknown",
+  "firstName": "Unknown",
+  "lastName": "Unknown",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2014
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/3085090",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "robert-vaden",
+  "externalIds": {
+   "espn": "30777"
+  },
+  "fullName": "Robert Vaden",
+  "firstName": "Robert",
+  "lastName": "Vaden",
+  "position": "Not Available",
+  "positionAbbr": "NA",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2005
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/30777",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "antonio-vrankovic",
+  "externalIds": {
+   "espn": "3913177"
+  },
+  "fullName": "Antonio Vrankovic",
+  "firstName": "Antonio",
+  "lastName": "Vrankovic",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 84.0,
+  "displayHeight": "7' 0\"",
+  "weightLb": 269.0,
+  "jersey": "30",
+  "birthPlace": "Zagreb, Croatia",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/3913177.png",
+  "dukeSeasons": [
+   2016,
+   2017,
+   2018,
+   2019
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/3913177",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "gary-ware",
+  "externalIds": {
+   "espn": "25213"
+  },
+  "fullName": "Gary Ware",
+  "firstName": "Gary",
+  "lastName": "Ware",
+  "position": "Not Available",
+  "positionAbbr": "NA",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2004
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/25213",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jack-white",
+  "externalIds": {
+   "espn": "4065653"
+  },
+  "fullName": "Jack White",
+  "firstName": "Jack",
+  "lastName": "White",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 79.0,
+  "displayHeight": "6' 7\"",
+  "weightLb": 225.0,
+  "jersey": null,
+  "birthPlace": "Traralgon, VIC, Australia",
+  "dateOfBirth": "1997-08-05",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4065653.png",
+  "dukeSeasons": [
+   2017,
+   2018,
+   2019,
+   2020
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4065653",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "dariq-whitehead",
+  "externalIds": {
+   "espn": "4432735"
+  },
+  "fullName": "Dariq Whitehead",
+  "firstName": "Dariq",
+  "lastName": "Whitehead",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 220.0,
+  "jersey": "0",
+  "birthPlace": "Newark, NJ, USA",
+  "dateOfBirth": "2004-08-01",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4432735.png",
+  "dukeSeasons": [
+   2023
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4432735",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "gordon-whitted",
+  "externalIds": {
+   "espn": "34753"
+  },
+  "fullName": "Gordon Whitted",
+  "firstName": "Gordon",
+  "lastName": "Whitted",
+  "position": "Not Available",
+  "positionAbbr": "NA",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2006
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/34753",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "sebastian-wilkins",
+  "externalIds": {
+   "espn": "5144150"
+  },
+  "fullName": "Sebastian Wilkins",
+  "firstName": "Sebastian",
+  "lastName": "Wilkins",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 80.0,
+  "displayHeight": "6' 8\"",
+  "weightLb": 220.0,
+  "jersey": "5",
+  "birthPlace": "Boston, MA, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5144150.png",
+  "dukeSeasons": [
+   2027
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5144150",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "cameron-williams",
+  "externalIds": {
+   "espn": "5210407"
+  },
+  "fullName": "Cameron Williams",
+  "firstName": "Cameron",
+  "lastName": "Williams",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 84.0,
+  "displayHeight": "7' 0\"",
+  "weightLb": 215.0,
+  "jersey": "14",
+  "birthPlace": "Phoenix, AZ, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5210407.png",
+  "dukeSeasons": [
+   2027
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/5210407",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "elliot-williams",
+  "externalIds": {
+   "espn": "41721"
+  },
+  "fullName": "Elliot Williams",
+  "firstName": "Elliot",
+  "lastName": "Williams",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 77.0,
+  "displayHeight": "6' 5\"",
+  "weightLb": 183.0,
+  "jersey": "15 ",
+  "birthPlace": "Memphis, TN, USA",
+  "dateOfBirth": "1989-06-20",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2009
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/41721",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "jay-williams",
+  "externalIds": {
+   "espn": "128"
+  },
+  "fullName": "Jay Williams",
+  "firstName": "Jay",
+  "lastName": "Williams",
+  "position": "Guard",
+  "positionAbbr": "G",
+  "heightIn": 74.0,
+  "displayHeight": "6' 2\"",
+  "weightLb": 195.0,
+  "jersey": "22 ",
+  "birthPlace": "Plainfield, NJ, USA",
+  "dateOfBirth": "1981-09-10",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2002
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/128",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "mark-williams",
+  "externalIds": {
+   "espn": "4701232"
+  },
+  "fullName": "Mark Williams",
+  "firstName": "Mark",
+  "lastName": "Williams",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 85.0,
+  "displayHeight": "7' 1\"",
+  "weightLb": 240.0,
+  "jersey": "15",
+  "birthPlace": "Virginia Beach, VA, USA",
+  "dateOfBirth": "2001-12-16",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4701232.png",
+  "dukeSeasons": [
+   2021,
+   2022
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4701232",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "omar-williams",
+  "externalIds": {
+   "espn": "31466"
+  },
+  "fullName": "Omar Williams",
+  "firstName": "Omar",
+  "lastName": "Williams",
+  "position": "Not Available",
+  "positionAbbr": "NA",
+  "heightIn": null,
+  "displayHeight": null,
+  "weightLb": null,
+  "jersey": null,
+  "birthPlace": null,
+  "dateOfBirth": null,
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2006
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/31466",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "shelden-williams",
+  "externalIds": {
+   "espn": "11146"
+  },
+  "fullName": "Shelden Williams",
+  "firstName": "Shelden",
+  "lastName": "Williams",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 250.0,
+  "jersey": "23 ",
+  "birthPlace": null,
+  "dateOfBirth": "1983-10-21",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2003,
+   2004,
+   2005,
+   2006
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/11146",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "zion-williamson",
+  "externalIds": {
+   "espn": "4395628"
+  },
+  "fullName": "Zion Williamson",
+  "firstName": "Zion",
+  "lastName": "Williamson",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 284.0,
+  "jersey": "1",
+  "birthPlace": "Salisbury, NC, USA",
+  "dateOfBirth": "2000-07-06",
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4395628.png",
+  "dukeSeasons": [
+   2019
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4395628",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "justise-winslow",
+  "externalIds": {
+   "espn": "3135047"
+  },
+  "fullName": "Justise Winslow",
+  "firstName": "Justise",
+  "lastName": "Winslow",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 78.0,
+  "displayHeight": "6' 6\"",
+  "weightLb": 222.0,
+  "jersey": "12",
+  "birthPlace": "Houston, TX, USA",
+  "dateOfBirth": "1996-03-26",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2015
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/3135047",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "keenan-worthington",
+  "externalIds": {
+   "espn": "4592189"
+  },
+  "fullName": "Keenan Worthington",
+  "firstName": "Keenan",
+  "lastName": "Worthington",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 224.0,
+  "jersey": "45",
+  "birthPlace": "Chapel Hill, NC, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4592189.png",
+  "dukeSeasons": [
+   2021,
+   2022
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4592189",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "ryan-young",
+  "externalIds": {
+   "espn": "4397232"
+  },
+  "fullName": "Ryan Young",
+  "firstName": "Ryan",
+  "lastName": "Young",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 82.0,
+  "displayHeight": "6' 10\"",
+  "weightLb": 238.0,
+  "jersey": "15",
+  "birthPlace": "Stewartsville, NJ, USA",
+  "dateOfBirth": null,
+  "headshotUrl": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4397232.png",
+  "dukeSeasons": [
+   2023,
+   2024
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/4397232",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "todd-zafirovski",
+  "externalIds": {
+   "espn": "50899"
+  },
+  "fullName": "Todd Zafirovski",
+  "firstName": "Todd",
+  "lastName": "Zafirovski",
+  "position": "Forward",
+  "positionAbbr": "F",
+  "heightIn": 81.0,
+  "displayHeight": "6' 9\"",
+  "weightLb": 245.0,
+  "jersey": "52",
+  "birthPlace": "Lake Forest, IL, USA",
+  "dateOfBirth": "1990-06-02",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2011,
+   2012,
+   2013,
+   2014
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/50899",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "id": "brian-zoubek",
+  "externalIds": {
+   "espn": "31711"
+  },
+  "fullName": "Brian Zoubek",
+  "firstName": "Brian",
+  "lastName": "Zoubek",
+  "position": "Center",
+  "positionAbbr": "C",
+  "heightIn": 85.0,
+  "displayHeight": "7' 1\"",
+  "weightLb": 260.0,
+  "jersey": "55 ",
+  "birthPlace": "Haddonfield, NJ, USA",
+  "dateOfBirth": "1988-04-06",
+  "headshotUrl": null,
+  "dukeSeasons": [
+   2007,
+   2008,
+   2009,
+   2010
+  ],
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/athletes/31711",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ }
+]

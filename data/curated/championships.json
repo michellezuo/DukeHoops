@@ -1,0 +1,14 @@
+{
+  "_source": {
+    "name": "NCAA Men's Basketball Championship history",
+    "url": "https://www.ncaa.com/history/basketball-men/d1",
+    "note": "Manually curated. Each entry should be re-verified against the NCAA record book before production use."
+  },
+  "championships": [
+    { "season": 1991, "label": "1990-91", "opponent": "Kansas", "score": "72-65", "site": "Indianapolis, IN", "coach": "Mike Krzyzewski" },
+    { "season": 1992, "label": "1991-92", "opponent": "Michigan", "score": "71-51", "site": "Minneapolis, MN", "coach": "Mike Krzyzewski" },
+    { "season": 2001, "label": "2000-01", "opponent": "Arizona", "score": "82-72", "site": "Minneapolis, MN", "coach": "Mike Krzyzewski" },
+    { "season": 2010, "label": "2009-10", "opponent": "Butler", "score": "61-59", "site": "Indianapolis, IN", "coach": "Mike Krzyzewski" },
+    { "season": 2015, "label": "2014-15", "opponent": "Wisconsin", "score": "68-63", "site": "Indianapolis, IN", "coach": "Mike Krzyzewski" }
+  ]
+}

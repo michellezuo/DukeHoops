@@ -1,0 +1,4204 @@
+[
+ {
+  "season": 2002,
+  "playerId": "andre-buckner",
+  "jersey": "2  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2002/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2002,
+  "playerId": "andy-borman",
+  "jersey": "40 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2002/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2002,
+  "playerId": "andy-means",
+  "jersey": "53 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2002/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2002,
+  "playerId": "carlos-boozer",
+  "jersey": "4  ",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2002/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2002,
+  "playerId": "casey-sanders",
+  "jersey": "20 ",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2002/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2002,
+  "playerId": "chris-duhon",
+  "jersey": "21 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2002/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2002,
+  "playerId": "dahntay-jones",
+  "jersey": "30 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2002/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2002,
+  "playerId": "daniel-ewing",
+  "jersey": "5  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2002/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2002,
+  "playerId": "jay-williams",
+  "jersey": "22 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2002/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2002,
+  "playerId": "mark-causey",
+  "jersey": "12 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2002/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2002,
+  "playerId": "matt-christensen",
+  "jersey": "41 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2002/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2002,
+  "playerId": "mike-dunleavy",
+  "jersey": "34 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2002/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2002,
+  "playerId": "nick-horvath",
+  "jersey": "3  ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2002/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2002,
+  "playerId": "reggie-love",
+  "jersey": "30 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2002/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "playerId": "andre-buckner",
+  "jersey": "2  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2003/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "playerId": "andy-means",
+  "jersey": "53 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2003/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "playerId": "casey-sanders",
+  "jersey": "20 ",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2003/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "playerId": "chris-duhon",
+  "jersey": "21 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2003/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "playerId": "dahntay-jones",
+  "jersey": "30 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2003/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "playerId": "daniel-ewing",
+  "jersey": "5  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2003/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "playerId": "j-d-simpson",
+  "jersey": "13 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2003/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "playerId": "jj-redick",
+  "jersey": null,
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2003/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "playerId": "lee-melchionni",
+  "jersey": "13 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2003/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "playerId": "michael-thompson",
+  "jersey": "22 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2003/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "playerId": "nate-james",
+  "jersey": "14 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2003/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "playerId": "nick-horvath",
+  "jersey": "3  ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2003/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "playerId": "patrick-johnson",
+  "jersey": "51 ",
+  "position": "F-C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2003/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "playerId": "ryan-caldbeck",
+  "jersey": "5  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2003/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "playerId": "sean-dockery",
+  "jersey": "15 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2003/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "playerId": "shane-battier",
+  "jersey": "31 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2003/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "playerId": "shavlik-randolph",
+  "jersey": "42 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2003/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "playerId": "shelden-williams",
+  "jersey": "23 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2003/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "andy-borman",
+  "jersey": "40 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "brandon-mcknight",
+  "jersey": null,
+  "position": "NA",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "bryant-dillon",
+  "jersey": null,
+  "position": "NA",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "carl-landry",
+  "jersey": null,
+  "position": "NA",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "chris-duhon",
+  "jersey": "21 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "daniel-ewing",
+  "jersey": "5  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "david-teague",
+  "jersey": null,
+  "position": "NA",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "gary-ware",
+  "jersey": null,
+  "position": "NA",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "jj-redick",
+  "jersey": null,
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "joe-pagliuca",
+  "jersey": "45 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "lee-melchionni",
+  "jersey": "13 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "luol-deng",
+  "jersey": "2  ",
+  "position": "G-F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "matt-carroll",
+  "jersey": null,
+  "position": "NA",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "matt-kiefer",
+  "jersey": null,
+  "position": "NA",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "michael-thompson",
+  "jersey": "22 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "nick-horvath",
+  "jersey": "3  ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "patrick-davidson",
+  "jersey": "41 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "patrick-johnson",
+  "jersey": "51 ",
+  "position": "F-C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "sean-dockery",
+  "jersey": "15 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "shavlik-randolph",
+  "jersey": "42 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "shelden-williams",
+  "jersey": "23 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "playerId": "xavier-price",
+  "jersey": null,
+  "position": "NA",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2004/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2005,
+  "playerId": "daniel-ewing",
+  "jersey": "5  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2005/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2005,
+  "playerId": "david-mcclure",
+  "jersey": "14 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2005/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2005,
+  "playerId": "demarcus-nelson",
+  "jersey": "21 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2005/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2005,
+  "playerId": "jj-redick",
+  "jersey": null,
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2005/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2005,
+  "playerId": "joe-pagliuca",
+  "jersey": "45 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2005/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2005,
+  "playerId": "lee-melchionni",
+  "jersey": "13 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2005/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2005,
+  "playerId": "patrick-davidson",
+  "jersey": "41 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2005/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2005,
+  "playerId": "patrick-johnson",
+  "jersey": "51 ",
+  "position": "F-C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2005/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2005,
+  "playerId": "reggie-love",
+  "jersey": "30 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2005/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2005,
+  "playerId": "robert-vaden",
+  "jersey": null,
+  "position": "NA",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2005/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2005,
+  "playerId": "ross-perkins",
+  "jersey": "40 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2005/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2005,
+  "playerId": "sean-dockery",
+  "jersey": "15 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2005/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2005,
+  "playerId": "shavlik-randolph",
+  "jersey": "42 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2005/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2005,
+  "playerId": "shelden-williams",
+  "jersey": "23 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2005/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2005,
+  "playerId": "tom-novick",
+  "jersey": "50 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2005/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2006,
+  "playerId": "demarcus-nelson",
+  "jersey": "21 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2006/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2006,
+  "playerId": "eric-boateng",
+  "jersey": "2  ",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2006/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2006,
+  "playerId": "gordon-whitted",
+  "jersey": null,
+  "position": "NA",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2006/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2006,
+  "playerId": "greg-paulus",
+  "jersey": "3  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2006/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2006,
+  "playerId": "jamal-boykin",
+  "jersey": "10 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2006/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2006,
+  "playerId": "jj-redick",
+  "jersey": null,
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2006/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2006,
+  "playerId": "joe-pagliuca",
+  "jersey": "45 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2006/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2006,
+  "playerId": "jordan-davidson",
+  "jersey": "41 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2006/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2006,
+  "playerId": "josh-mcroberts",
+  "jersey": "2  ",
+  "position": "F-C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2006/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2006,
+  "playerId": "lee-melchionni",
+  "jersey": "13 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2006/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2006,
+  "playerId": "martynas-pocius",
+  "jersey": "5  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2006/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2006,
+  "playerId": "omar-williams",
+  "jersey": null,
+  "position": "NA",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2006/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2006,
+  "playerId": "patrick-johnson",
+  "jersey": "51 ",
+  "position": "F-C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2006/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2006,
+  "playerId": "ross-perkins",
+  "jersey": "40 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2006/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2006,
+  "playerId": "sean-dockery",
+  "jersey": "15 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2006/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2006,
+  "playerId": "shelden-williams",
+  "jersey": "23 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2006/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2006,
+  "playerId": "tim-anderson",
+  "jersey": null,
+  "position": "NA",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2006/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2007,
+  "playerId": "brian-zoubek",
+  "jersey": "55 ",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2007/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2007,
+  "playerId": "david-mcclure",
+  "jersey": "14 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2007/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2007,
+  "playerId": "demarcus-nelson",
+  "jersey": "21 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2007/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2007,
+  "playerId": "gerald-henderson",
+  "jersey": "15 ",
+  "position": "G-F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2007/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2007,
+  "playerId": "greg-paulus",
+  "jersey": "3  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2007/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2007,
+  "playerId": "griffin-tormey",
+  "jersey": "40 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2007/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2007,
+  "playerId": "jamal-boykin",
+  "jersey": "10 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2007/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2007,
+  "playerId": "joe-pagliuca",
+  "jersey": "45 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2007/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2007,
+  "playerId": "jon-scheyer",
+  "jersey": "30 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2007/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2007,
+  "playerId": "jordan-davidson",
+  "jersey": "41 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2007/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2007,
+  "playerId": "josh-mcroberts",
+  "jersey": "2  ",
+  "position": "F-C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2007/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2007,
+  "playerId": "lance-thomas",
+  "jersey": "42 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2007/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2007,
+  "playerId": "martynas-pocius",
+  "jersey": "5  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2007/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2007,
+  "playerId": "nick-sutton",
+  "jersey": "13 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2007/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2007,
+  "playerId": "steve-johnson",
+  "jersey": "51 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2007/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2008,
+  "playerId": "brian-zoubek",
+  "jersey": "55 ",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2008/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2008,
+  "playerId": "david-mcclure",
+  "jersey": "14 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2008/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2008,
+  "playerId": "demarcus-nelson",
+  "jersey": "21 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2008/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2008,
+  "playerId": "gerald-henderson",
+  "jersey": "15 ",
+  "position": "G-F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2008/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2008,
+  "playerId": "greg-paulus",
+  "jersey": "3  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2008/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2008,
+  "playerId": "jon-scheyer",
+  "jersey": "30 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2008/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2008,
+  "playerId": "jordan-davidson",
+  "jersey": "41 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2008/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2008,
+  "playerId": "kyle-singler",
+  "jersey": "12 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2008/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2008,
+  "playerId": "lance-thomas",
+  "jersey": "42 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2008/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2008,
+  "playerId": "martynas-pocius",
+  "jersey": "5  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2008/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2008,
+  "playerId": "nolan-smith",
+  "jersey": "2  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2008/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2008,
+  "playerId": "taylor-king",
+  "jersey": "31 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2008/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2009,
+  "playerId": "brian-zoubek",
+  "jersey": "55 ",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2009/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2009,
+  "playerId": "david-mcclure",
+  "jersey": "14 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2009/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2009,
+  "playerId": "elliot-williams",
+  "jersey": "15 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2009/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2009,
+  "playerId": "gerald-henderson",
+  "jersey": "15 ",
+  "position": "G-F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2009/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2009,
+  "playerId": "greg-paulus",
+  "jersey": "3  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2009/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2009,
+  "playerId": "jon-scheyer",
+  "jersey": "30 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2009/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2009,
+  "playerId": "kyle-singler",
+  "jersey": "12 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2009/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2009,
+  "playerId": "lance-thomas",
+  "jersey": "42 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2009/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2009,
+  "playerId": "martynas-pocius",
+  "jersey": "5  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2009/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2009,
+  "playerId": "miles-plumlee",
+  "jersey": "21 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2009/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2009,
+  "playerId": "nolan-smith",
+  "jersey": "2  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2009/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2009,
+  "playerId": "olek-czyz",
+  "jersey": "31 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2009/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2009,
+  "playerId": "steve-johnson",
+  "jersey": "51 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2009/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2010,
+  "playerId": "andre-dawkins",
+  "jersey": "34",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2010/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2010,
+  "playerId": "brian-zoubek",
+  "jersey": "55 ",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2010/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2010,
+  "playerId": "casey-peters",
+  "jersey": "53 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2010/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2010,
+  "playerId": "jon-scheyer",
+  "jersey": "30 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2010/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2010,
+  "playerId": "jordan-davidson",
+  "jersey": "41 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2010/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2010,
+  "playerId": "kyle-singler",
+  "jersey": "12 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2010/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2010,
+  "playerId": "lance-thomas",
+  "jersey": "42 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2010/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2010,
+  "playerId": "mason-plumlee",
+  "jersey": "5  ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2010/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2010,
+  "playerId": "miles-plumlee",
+  "jersey": "21 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2010/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2010,
+  "playerId": "nolan-smith",
+  "jersey": "2  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2010/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2010,
+  "playerId": "olek-czyz",
+  "jersey": "31 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2010/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2010,
+  "playerId": "ryan-kelly",
+  "jersey": "34 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2010/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2010,
+  "playerId": "steve-johnson",
+  "jersey": "51 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2010/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2011,
+  "playerId": "andre-dawkins",
+  "jersey": "34",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2011/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2011,
+  "playerId": "casey-peters",
+  "jersey": "53 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2011/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2011,
+  "playerId": "josh-hairston",
+  "jersey": "15",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2011/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2011,
+  "playerId": "kyle-singler",
+  "jersey": "12 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2011/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2011,
+  "playerId": "kyrie-irving",
+  "jersey": "1  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2011/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2011,
+  "playerId": "mason-plumlee",
+  "jersey": "5  ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2011/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2011,
+  "playerId": "miles-plumlee",
+  "jersey": "21 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2011/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2011,
+  "playerId": "nolan-smith",
+  "jersey": "2  ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2011/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2011,
+  "playerId": "ryan-kelly",
+  "jersey": "34 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2011/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2011,
+  "playerId": "seth-curry",
+  "jersey": "30 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2011/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2011,
+  "playerId": "todd-zafirovski",
+  "jersey": "52",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2011/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2011,
+  "playerId": "tyler-thornton",
+  "jersey": "3",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2011/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2012,
+  "playerId": "andre-dawkins",
+  "jersey": "34",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2012/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2012,
+  "playerId": "austin-rivers",
+  "jersey": null,
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2012/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2012,
+  "playerId": "david-mayer",
+  "jersey": "51 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2012/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2012,
+  "playerId": "josh-hairston",
+  "jersey": "15",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2012/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2012,
+  "playerId": "mason-plumlee",
+  "jersey": "5  ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2012/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2012,
+  "playerId": "michael-gbinije",
+  "jersey": "0",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2012/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2012,
+  "playerId": "miles-plumlee",
+  "jersey": "21 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2012/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2012,
+  "playerId": "quinn-cook",
+  "jersey": "2",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2012/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2012,
+  "playerId": "ryan-kelly",
+  "jersey": "34 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2012/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2012,
+  "playerId": "seth-curry",
+  "jersey": "30 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2012/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2012,
+  "playerId": "todd-zafirovski",
+  "jersey": "52",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2012/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2012,
+  "playerId": "tyler-thornton",
+  "jersey": "3",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2012/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2013,
+  "playerId": "alex-murphy",
+  "jersey": "0",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2013/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2013,
+  "playerId": "amile-jefferson",
+  "jersey": "21",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2013/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2013,
+  "playerId": "josh-hairston",
+  "jersey": "15",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2013/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2013,
+  "playerId": "marshall-plumlee",
+  "jersey": "40",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2013/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2013,
+  "playerId": "mason-plumlee",
+  "jersey": "5  ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2013/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2013,
+  "playerId": "quinn-cook",
+  "jersey": "2",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2013/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2013,
+  "playerId": "rasheed-sulaimon",
+  "jersey": "0",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2013/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2013,
+  "playerId": "ryan-kelly",
+  "jersey": "34 ",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2013/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2013,
+  "playerId": "seth-curry",
+  "jersey": "30 ",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2013/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2013,
+  "playerId": "todd-zafirovski",
+  "jersey": "52",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2013/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2013,
+  "playerId": "tyler-thornton",
+  "jersey": "3",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2013/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2014,
+  "playerId": "alex-murphy",
+  "jersey": "0",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2014/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2014,
+  "playerId": "amile-jefferson",
+  "jersey": "21",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2014/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2014,
+  "playerId": "andre-dawkins",
+  "jersey": "34",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2014/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2014,
+  "playerId": "jabari-parker",
+  "jersey": "1",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2014/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2014,
+  "playerId": "josh-hairston",
+  "jersey": "15",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2014/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2014,
+  "playerId": "marshall-plumlee",
+  "jersey": "40",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2014/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2014,
+  "playerId": "matt-jones",
+  "jersey": "13",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2014/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2014,
+  "playerId": "nick-pagliuca",
+  "jersey": "45",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2014/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2014,
+  "playerId": "quinn-cook",
+  "jersey": "2",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2014/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2014,
+  "playerId": "rasheed-sulaimon",
+  "jersey": "0",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2014/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2014,
+  "playerId": "rodney-hood",
+  "jersey": "5",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2014/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2014,
+  "playerId": "semi-ojeleye",
+  "jersey": "33",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2014/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2014,
+  "playerId": "todd-zafirovski",
+  "jersey": "52",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2014/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2014,
+  "playerId": "tyler-thornton",
+  "jersey": "3",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2014/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2014,
+  "playerId": "unknown-unknown",
+  "jersey": null,
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2014/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2015,
+  "playerId": "amile-jefferson",
+  "jersey": "21",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2015/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2015,
+  "playerId": "grayson-allen",
+  "jersey": "3",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2015/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2015,
+  "playerId": "jahlil-okafor",
+  "jersey": "15",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2015/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2015,
+  "playerId": "justise-winslow",
+  "jersey": "12",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2015/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2015,
+  "playerId": "marshall-plumlee",
+  "jersey": "40",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2015/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2015,
+  "playerId": "matt-jones",
+  "jersey": "13",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2015/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2015,
+  "playerId": "nick-pagliuca",
+  "jersey": "45",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2015/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2015,
+  "playerId": "quinn-cook",
+  "jersey": "2",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2015/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2015,
+  "playerId": "rasheed-sulaimon",
+  "jersey": "0",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2015/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2015,
+  "playerId": "sean-kelly",
+  "jersey": "42",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2015/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2015,
+  "playerId": "semi-ojeleye",
+  "jersey": "33",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2015/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2015,
+  "playerId": "tyus-jones",
+  "jersey": "5",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2015/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2016,
+  "playerId": "amile-jefferson",
+  "jersey": "21",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2016/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2016,
+  "playerId": "antonio-vrankovic",
+  "jersey": "30",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2016/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2016,
+  "playerId": "brandon-ingram",
+  "jersey": "14",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2016/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2016,
+  "playerId": "brennan-besser",
+  "jersey": "53",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2016/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2016,
+  "playerId": "chase-jeter",
+  "jersey": "4",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2016/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2016,
+  "playerId": "derryck-thornton",
+  "jersey": "11",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2016/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2016,
+  "playerId": "grayson-allen",
+  "jersey": "3",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2016/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2016,
+  "playerId": "justin-robinson",
+  "jersey": "50",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2016/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2016,
+  "playerId": "luke-kennard",
+  "jersey": "5",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2016/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2016,
+  "playerId": "marshall-plumlee",
+  "jersey": "40",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2016/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2016,
+  "playerId": "matt-jones",
+  "jersey": "13",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2016/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2016,
+  "playerId": "nick-pagliuca",
+  "jersey": "45",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2016/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2016,
+  "playerId": "null",
+  "jersey": null,
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2016/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2016,
+  "playerId": "sean-obi",
+  "jersey": "0",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2016/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2017,
+  "playerId": "amile-jefferson",
+  "jersey": "21",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2017/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2017,
+  "playerId": "antonio-vrankovic",
+  "jersey": "30",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2017/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2017,
+  "playerId": "brennan-besser",
+  "jersey": "53",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2017/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2017,
+  "playerId": "chase-jeter",
+  "jersey": "4",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2017/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2017,
+  "playerId": "frank-jackson",
+  "jersey": "15",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2017/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2017,
+  "playerId": "grayson-allen",
+  "jersey": "3",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2017/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2017,
+  "playerId": "harry-giles-iii",
+  "jersey": "1",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2017/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2017,
+  "playerId": "jack-white",
+  "jersey": null,
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2017/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2017,
+  "playerId": "javin-delaurier",
+  "jersey": "12",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2017/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2017,
+  "playerId": "jayson-tatum",
+  "jersey": "0",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2017/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2017,
+  "playerId": "justin-robinson",
+  "jersey": "50",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2017/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2017,
+  "playerId": "luke-kennard",
+  "jersey": "5",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2017/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2017,
+  "playerId": "marques-bolden",
+  "jersey": "20",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2017/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2017,
+  "playerId": "matt-jones",
+  "jersey": "13",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2017/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2017,
+  "playerId": "nick-pagliuca",
+  "jersey": "45",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2017/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2018,
+  "playerId": "alex-o-connell",
+  "jersey": null,
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2018/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2018,
+  "playerId": "antonio-vrankovic",
+  "jersey": "30",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2018/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2018,
+  "playerId": "brennan-besser",
+  "jersey": "53",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2018/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2018,
+  "playerId": "gary-trent-jr",
+  "jersey": "2",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2018/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2018,
+  "playerId": "grayson-allen",
+  "jersey": "3",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2018/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2018,
+  "playerId": "jack-white",
+  "jersey": null,
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2018/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2018,
+  "playerId": "javin-delaurier",
+  "jersey": "12",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2018/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2018,
+  "playerId": "jordan-goldwire",
+  "jersey": "0",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2018/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2018,
+  "playerId": "jordan-tucker",
+  "jersey": "1",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2018/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2018,
+  "playerId": "justin-robinson",
+  "jersey": "50",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2018/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2018,
+  "playerId": "marques-bolden",
+  "jersey": "20",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2018/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2018,
+  "playerId": "marvin-bagley-iii",
+  "jersey": "35",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2018/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2018,
+  "playerId": "mike-buckmire",
+  "jersey": "51",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2018/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2018,
+  "playerId": "trevon-duval",
+  "jersey": "1",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2018/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2018,
+  "playerId": "wendell-carter-jr",
+  "jersey": "34",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2018/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2019,
+  "playerId": "alex-o-connell",
+  "jersey": null,
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2019/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2019,
+  "playerId": "antonio-vrankovic",
+  "jersey": "30",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2019/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2019,
+  "playerId": "brennan-besser",
+  "jersey": "53",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2019/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2019,
+  "playerId": "cam-reddish",
+  "jersey": "2",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2019/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2019,
+  "playerId": "jack-white",
+  "jersey": null,
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2019/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2019,
+  "playerId": "javin-delaurier",
+  "jersey": "12",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2019/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2019,
+  "playerId": "joey-baker",
+  "jersey": "15",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2019/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2019,
+  "playerId": "jordan-goldwire",
+  "jersey": "0",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2019/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2019,
+  "playerId": "justin-robinson",
+  "jersey": "50",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2019/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2019,
+  "playerId": "marques-bolden",
+  "jersey": "20",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2019/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2019,
+  "playerId": "mike-buckmire",
+  "jersey": "51",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2019/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2019,
+  "playerId": "rj-barrett",
+  "jersey": "5",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2019/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2019,
+  "playerId": "tre-jones",
+  "jersey": "3",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2019/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2019,
+  "playerId": "zion-williamson",
+  "jersey": "1",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2019/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2020,
+  "playerId": "alex-o-connell",
+  "jersey": null,
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2020/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2020,
+  "playerId": "cassius-stanley",
+  "jersey": "2",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2020/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2020,
+  "playerId": "jack-white",
+  "jersey": null,
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2020/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2020,
+  "playerId": "javin-delaurier",
+  "jersey": "12",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2020/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2020,
+  "playerId": "joey-baker",
+  "jersey": "15",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2020/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2020,
+  "playerId": "jordan-goldwire",
+  "jersey": "0",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2020/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2020,
+  "playerId": "justin-robinson",
+  "jersey": "50",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2020/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2020,
+  "playerId": "matt-hurt",
+  "jersey": null,
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2020/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2020,
+  "playerId": "mike-buckmire",
+  "jersey": "51",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2020/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2020,
+  "playerId": "tre-jones",
+  "jersey": "3",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2020/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2020,
+  "playerId": "vernon-carey-jr",
+  "jersey": "1",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2020/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2020,
+  "playerId": "wendell-moore-jr",
+  "jersey": "0",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2020/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2021,
+  "playerId": "dj-steward",
+  "jersey": null,
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2021/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2021,
+  "playerId": "henry-coleman-iii",
+  "jersey": "15",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2021/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2021,
+  "playerId": "jaemyn-brakefield",
+  "jersey": "4",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2021/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2021,
+  "playerId": "jalen-johnson",
+  "jersey": null,
+  "position": null,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/mens-college-basketball/athletes/4701230/stats",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2021,
+  "playerId": "jeremy-roach",
+  "jersey": "3",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2021/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2021,
+  "playerId": "joey-baker",
+  "jersey": "15",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2021/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2021,
+  "playerId": "jordan-goldwire",
+  "jersey": "0",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2021/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2021,
+  "playerId": "keenan-worthington",
+  "jersey": "45",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2021/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2021,
+  "playerId": "mark-williams",
+  "jersey": "15",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2021/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2021,
+  "playerId": "matt-hurt",
+  "jersey": null,
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2021/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2021,
+  "playerId": "michael-savarino",
+  "jersey": "30",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2021/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2021,
+  "playerId": "mike-buckmire",
+  "jersey": "51",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2021/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2021,
+  "playerId": "patrick-tape",
+  "jersey": "11",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2021/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2021,
+  "playerId": "wendell-moore-jr",
+  "jersey": "0",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2021/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2022,
+  "playerId": "aj-griffin",
+  "jersey": null,
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2022/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2022,
+  "playerId": "bates-jones",
+  "jersey": "34",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2022/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2022,
+  "playerId": "henry-coleman-iii-4900187",
+  "jersey": null,
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2022/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2022,
+  "playerId": "jaylen-blakes",
+  "jersey": "21",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2022/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2022,
+  "playerId": "jeremy-roach",
+  "jersey": "3",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2022/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2022,
+  "playerId": "joey-baker",
+  "jersey": "15",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2022/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2022,
+  "playerId": "keenan-worthington",
+  "jersey": "45",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2022/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2022,
+  "playerId": "mark-williams",
+  "jersey": "15",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2022/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2022,
+  "playerId": "michael-savarino",
+  "jersey": "30",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2022/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2022,
+  "playerId": "paolo-banchero",
+  "jersey": null,
+  "position": "PF",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2022/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2022,
+  "playerId": "spencer-hubbard",
+  "jersey": "55",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2022/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2022,
+  "playerId": "stanley-borden",
+  "jersey": "17",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2022/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2022,
+  "playerId": "theo-john",
+  "jersey": "12",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2022/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2022,
+  "playerId": "trevor-keels",
+  "jersey": "1",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2022/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2022,
+  "playerId": "wendell-moore-jr",
+  "jersey": "0",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2022/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2023,
+  "playerId": "christian-reeves",
+  "jersey": "32",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2023/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2023,
+  "playerId": "dariq-whitehead",
+  "jersey": "0",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2023/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2023,
+  "playerId": "dereck-lively-ii",
+  "jersey": "1",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2023/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2023,
+  "playerId": "jacob-grandison",
+  "jersey": "13",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2023/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2023,
+  "playerId": "jaden-schutt",
+  "jersey": "2",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2023/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2023,
+  "playerId": "jaylen-blakes",
+  "jersey": "21",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2023/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2023,
+  "playerId": "jeremy-roach",
+  "jersey": "3",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2023/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2023,
+  "playerId": "kale-catchings",
+  "jersey": "12",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2023/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2023,
+  "playerId": "kyle-filipowski",
+  "jersey": "30",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2023/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2023,
+  "playerId": "mark-mitchell-jr",
+  "jersey": "25",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2023/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2023,
+  "playerId": "max-johns",
+  "jersey": "41",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2023/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2023,
+  "playerId": "ryan-young",
+  "jersey": "15",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2023/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2023,
+  "playerId": "spencer-hubbard",
+  "jersey": "55",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2023/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2023,
+  "playerId": "stanley-borden",
+  "jersey": "17",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2023/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2023,
+  "playerId": "tyrese-proctor",
+  "jersey": "5",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2023/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2024,
+  "playerId": "caleb-foster",
+  "jersey": "1",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2024/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2024,
+  "playerId": "christian-reeves",
+  "jersey": "32",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2024/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2024,
+  "playerId": "jared-mccain",
+  "jersey": "0",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2024/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2024,
+  "playerId": "jaylen-blakes",
+  "jersey": "21",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2024/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2024,
+  "playerId": "jeremy-roach",
+  "jersey": "3",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2024/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2024,
+  "playerId": "kyle-filipowski",
+  "jersey": "30",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2024/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2024,
+  "playerId": "mark-mitchell-jr",
+  "jersey": "25",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2024/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2024,
+  "playerId": "neal-begovich",
+  "jersey": "20",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2024/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2024,
+  "playerId": "ryan-young",
+  "jersey": "15",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2024/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2024,
+  "playerId": "sean-stewart",
+  "jersey": "13",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2024/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2024,
+  "playerId": "spencer-hubbard",
+  "jersey": "55",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2024/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2024,
+  "playerId": "stanley-borden",
+  "jersey": "17",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2024/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2024,
+  "playerId": "tj-power",
+  "jersey": "12",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2024/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2024,
+  "playerId": "tyrese-proctor",
+  "jersey": "5",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2024/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2025,
+  "playerId": "caleb-foster",
+  "jersey": "1",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2025/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2025,
+  "playerId": "cameron-sheffield",
+  "jersey": "13",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2025/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2025,
+  "playerId": "cooper-flagg",
+  "jersey": "2",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2025/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2025,
+  "playerId": "darren-harris",
+  "jersey": "1",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2025/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2025,
+  "playerId": "isaiah-evans",
+  "jersey": "3",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2025/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2025,
+  "playerId": "khaman-maluach",
+  "jersey": "9",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2025/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2025,
+  "playerId": "kon-knueppel",
+  "jersey": "7",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2025/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2025,
+  "playerId": "maliq-brown",
+  "jersey": "6",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2025/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2025,
+  "playerId": "mason-gillis",
+  "jersey": "18",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2025/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2025,
+  "playerId": "neal-begovich",
+  "jersey": "20",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2025/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2025,
+  "playerId": "patrick-ngongba-ii",
+  "jersey": "21",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2025/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2025,
+  "playerId": "sion-james",
+  "jersey": "14",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2025/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2025,
+  "playerId": "spencer-hubbard",
+  "jersey": "55",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2025/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2025,
+  "playerId": "stanley-borden",
+  "jersey": "17",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2025/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2025,
+  "playerId": "tyrese-proctor",
+  "jersey": "5",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2025/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "art-heyman",
+  "jersey": null,
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "bobby-hurley",
+  "jersey": null,
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "brock-davis",
+  "jersey": "50",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "caleb-foster",
+  "jersey": "1",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "cameron-boozer",
+  "jersey": "12",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "cameron-sheffield",
+  "jersey": "13",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "cayden-boozer",
+  "jersey": "2",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "christian-laettner",
+  "jersey": null,
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "dame-sarr",
+  "jersey": "7",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "danny-ferry",
+  "jersey": null,
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "darren-harris",
+  "jersey": "1",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "dereck-lively-ii-5179684",
+  "jersey": null,
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "dick-groat",
+  "jersey": null,
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "elton-brand",
+  "jersey": null,
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "grant-hill",
+  "jersey": null,
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "ifeanyi-ufochukwu",
+  "jersey": "15",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "isaiah-evans",
+  "jersey": "3",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "jack-scott",
+  "jersey": "20",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "johnny-dawkins",
+  "jersey": null,
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "maliq-brown",
+  "jersey": "6",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "nik-khamenia",
+  "jersey": "4",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "patrick-ngongba-ii",
+  "jersey": "21",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "playerId": "shane-battier-2020491",
+  "jersey": null,
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2026/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2027,
+  "playerId": "brock-davis",
+  "jersey": "50",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2027/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2027,
+  "playerId": "bryson-howard",
+  "jersey": "12",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2027/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2027,
+  "playerId": "caleb-foster",
+  "jersey": "1",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2027/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2027,
+  "playerId": "cameron-williams",
+  "jersey": "14",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2027/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2027,
+  "playerId": "cayden-boozer",
+  "jersey": "2",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2027/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2027,
+  "playerId": "dame-sarr",
+  "jersey": "7",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2027/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2027,
+  "playerId": "deron-rippey-jr",
+  "jersey": "3",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2027/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2027,
+  "playerId": "drew-scharnowski",
+  "jersey": "8",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2027/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2027,
+  "playerId": "jacob-theodosiou",
+  "jersey": "26",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2027/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2027,
+  "playerId": "joaquim-boumtje-boumtje",
+  "jersey": "30",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2027/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2027,
+  "playerId": "john-blackwell",
+  "jersey": "13",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2027/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2027,
+  "playerId": "maxime-meyer",
+  "jersey": "15",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2027/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2027,
+  "playerId": "nick-arnold",
+  "jersey": "55",
+  "position": "G",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2027/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2027,
+  "playerId": "patrick-ngongba-ii",
+  "jersey": "21",
+  "position": "C",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2027/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2027,
+  "playerId": "sebastian-wilkins",
+  "jersey": "5",
+  "position": "F",
+  "source": {
+   "name": "ESPN",
+   "url": "https://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/seasons/2027/teams/150/athletes",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ }
+]

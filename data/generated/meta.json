@@ -1,0 +1,88 @@
+{
+ "generatedAt": "2026-11-18T01:08:12+00:00",
+ "seasonRange": [
+  2002,
+  2027
+ ],
+ "counts": {
+  "players": 194,
+  "rosters": 382,
+  "seasons": 26,
+  "games": 932,
+  "playerSeasonStats": 347,
+  "playerGameStats": 828
+ },
+ "http": {
+  "liveRequests": 33,
+  "cacheHits": 794
+ },
+ "errors": [],
+ "rosterReconciliation": {
+  "dropped": [
+   "Grayson Allen 2013-14",
+   "Tyus Jones 2013-14",
+   "Sean Kelly 2013-14",
+   "Jahlil Okafor 2013-14",
+   "Justise Winslow 2013-14",
+   "Andre Dawkins 2014-15",
+   "Josh Hairston 2014-15",
+   "Sean Obi 2014-15",
+   "Tyler Thornton 2014-15",
+   "Todd Zafirovski 2014-15",
+   "Quinn Cook 2015-16",
+   "Sean Kelly 2015-16",
+   "Sean Obi 2016-17",
+   "Marshall Plumlee 2016-17",
+   "Sean Obi 2017-18",
+   "JJ Redick 2017-18",
+   "Trevon Duval 2018-19",
+   "Michael Savarino 2019-20",
+   "Keenan Worthington 2019-20",
+   "Vernon Carey Jr. 2020-21",
+   "Javin DeLaurier 2020-21",
+   "Tre Jones 2020-21",
+   "Alex O'Connell 2020-21",
+   "Justin Robinson 2020-21",
+   "Cassius Stanley 2020-21",
+   "Jack White 2020-21",
+   "Jaemyn Brakefield 2021-22",
+   "Mike Buckmire 2021-22",
+   "Henry Coleman III 2021-22",
+   "Jordan Goldwire 2021-22",
+   "Matt Hurt 2021-22",
+   "DJ Steward 2021-22",
+   "Patrick Tape 2021-22",
+   "Joey Baker 2022-23",
+   "AJ Griffin 2022-23",
+   "Theo John 2022-23",
+   "Bates Jones 2022-23",
+   "Michael Savarino 2022-23",
+   "Keenan Worthington 2022-23",
+   "Kale Catchings 2023-24",
+   "Jacob Grandison 2023-24",
+   "Max Johns 2023-24",
+   "Jaden Schutt 2023-24",
+   "Jaylen Blakes 2024-25",
+   "Mark Mitchell Jr. 2024-25",
+   "TJ Power 2024-25",
+   "Christian Reeves 2024-25",
+   "Jeremy Roach 2024-25",
+   "Jaden Schutt 2024-25",
+   "Sean Stewart 2024-25",
+   "Ryan Young 2024-25",
+   "Jalen Johnson 2025-26",
+   "Sebastian Wilkins 2025-26",
+   "Cameron Williams 2025-26"
+  ],
+  "added": [
+   "Jalen Johnson 2020-21"
+  ]
+ },
+ "sources": [
+  {
+   "name": "ESPN (unofficial public JSON API)",
+   "url": "https://site.api.espn.com",
+   "note": "Unofficial endpoints; may change without notice."
+  }
+ ]
+}

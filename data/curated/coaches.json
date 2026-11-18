@@ -1,0 +1,11 @@
+{
+  "_source": {
+    "name": "GoDuke.com coaching history",
+    "url": "https://goduke.com/sports/mens-basketball/coaches",
+    "note": "Manually curated; only coaches verified so far are listed. Earlier coaches to be added from the official record book."
+  },
+  "coaches": [
+    { "id": "mike-krzyzewski", "fullName": "Mike Krzyzewski", "firstSeason": 1981, "lastSeason": 2022, "note": "Five NCAA championships (1991, 1992, 2001, 2010, 2015)." },
+    { "id": "jon-scheyer", "fullName": "Jon Scheyer", "firstSeason": 2023, "lastSeason": null, "note": "Former Duke player (2007-10) and member of the 2010 title team." }
+  ]
+}

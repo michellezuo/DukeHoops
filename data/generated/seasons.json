@@ -1,0 +1,418 @@
+[
+ {
+  "season": 2002,
+  "label": "2001-02",
+  "coach": null,
+  "wins": 29,
+  "losses": 4,
+  "recordIsComputed": true,
+  "conferenceRecord": null,
+  "gamesScheduled": 33,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2002",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2003,
+  "label": "2002-03",
+  "coach": null,
+  "wins": 26,
+  "losses": 7,
+  "recordIsComputed": true,
+  "conferenceRecord": "11-5",
+  "gamesScheduled": 33,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2003",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2004,
+  "label": "2003-04",
+  "coach": null,
+  "wins": 31,
+  "losses": 6,
+  "recordIsComputed": true,
+  "conferenceRecord": "13-3",
+  "gamesScheduled": 37,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2004",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2005,
+  "label": "2004-05",
+  "coach": null,
+  "wins": 27,
+  "losses": 6,
+  "recordIsComputed": true,
+  "conferenceRecord": "11-5",
+  "gamesScheduled": 33,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2005",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2006,
+  "label": "2005-06",
+  "coach": null,
+  "wins": 32,
+  "losses": 4,
+  "recordIsComputed": true,
+  "conferenceRecord": "14-2",
+  "gamesScheduled": 36,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2006",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2007,
+  "label": "2006-07",
+  "coach": null,
+  "wins": 22,
+  "losses": 11,
+  "recordIsComputed": true,
+  "conferenceRecord": "8-8",
+  "gamesScheduled": 33,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2007",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2008,
+  "label": "2007-08",
+  "coach": null,
+  "wins": 28,
+  "losses": 6,
+  "recordIsComputed": true,
+  "conferenceRecord": "13-3",
+  "gamesScheduled": 34,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2008",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2009,
+  "label": "2008-09",
+  "coach": null,
+  "wins": 30,
+  "losses": 7,
+  "recordIsComputed": true,
+  "conferenceRecord": "11-5",
+  "gamesScheduled": 37,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2009",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2010,
+  "label": "2009-10",
+  "coach": null,
+  "wins": 35,
+  "losses": 5,
+  "recordIsComputed": true,
+  "conferenceRecord": "13-3",
+  "gamesScheduled": 40,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2010",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2011,
+  "label": "2010-11",
+  "coach": null,
+  "wins": 32,
+  "losses": 5,
+  "recordIsComputed": true,
+  "conferenceRecord": "13-3",
+  "gamesScheduled": 37,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2011",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2012,
+  "label": "2011-12",
+  "coach": null,
+  "wins": 27,
+  "losses": 7,
+  "recordIsComputed": true,
+  "conferenceRecord": "13-3",
+  "gamesScheduled": 34,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2012",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2013,
+  "label": "2012-13",
+  "coach": null,
+  "wins": 31,
+  "losses": 6,
+  "recordIsComputed": true,
+  "conferenceRecord": "14-4",
+  "gamesScheduled": 37,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2013",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2014,
+  "label": "2013-14",
+  "coach": "Mike Krzyzewski",
+  "wins": 26,
+  "losses": 9,
+  "recordIsComputed": true,
+  "conferenceRecord": "13-5",
+  "gamesScheduled": 36,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2014",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2015,
+  "label": "2014-15",
+  "coach": "Mike Krzyzewski",
+  "wins": 35,
+  "losses": 4,
+  "recordIsComputed": true,
+  "conferenceRecord": "15-3",
+  "gamesScheduled": 39,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2015",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2016,
+  "label": "2015-16",
+  "coach": "Mike Krzyzewski",
+  "wins": 25,
+  "losses": 11,
+  "recordIsComputed": true,
+  "conferenceRecord": "11-7",
+  "gamesScheduled": 36,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2016",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2017,
+  "label": "2016-17",
+  "coach": "Mike Krzyzewski",
+  "wins": 28,
+  "losses": 9,
+  "recordIsComputed": true,
+  "conferenceRecord": "11-7",
+  "gamesScheduled": 37,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2017",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2018,
+  "label": "2017-18",
+  "coach": "Mike Krzyzewski",
+  "wins": 29,
+  "losses": 8,
+  "recordIsComputed": true,
+  "conferenceRecord": "13-5",
+  "gamesScheduled": 37,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2018",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2019,
+  "label": "2018-19",
+  "coach": "Mike Krzyzewski",
+  "wins": 32,
+  "losses": 6,
+  "recordIsComputed": true,
+  "conferenceRecord": "14-4",
+  "gamesScheduled": 38,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2019",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2020,
+  "label": "2019-20",
+  "coach": "Mike Krzyzewski",
+  "wins": 25,
+  "losses": 6,
+  "recordIsComputed": true,
+  "conferenceRecord": "15-5",
+  "gamesScheduled": 32,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2020",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2021,
+  "label": "2020-21",
+  "coach": "Mike Krzyzewski",
+  "wins": 13,
+  "losses": 11,
+  "recordIsComputed": true,
+  "conferenceRecord": "9-9",
+  "gamesScheduled": 31,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2021",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2022,
+  "label": "2021-22",
+  "coach": "Mike Krzyzewski",
+  "wins": 32,
+  "losses": 7,
+  "recordIsComputed": true,
+  "conferenceRecord": "16-4",
+  "gamesScheduled": 41,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2022",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2023,
+  "label": "2022-23",
+  "coach": "Jon Scheyer",
+  "wins": 27,
+  "losses": 9,
+  "recordIsComputed": true,
+  "conferenceRecord": "14-6",
+  "gamesScheduled": 36,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2023",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2024,
+  "label": "2023-24",
+  "coach": "Jon Scheyer",
+  "wins": 27,
+  "losses": 9,
+  "recordIsComputed": true,
+  "conferenceRecord": "15-5",
+  "gamesScheduled": 36,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2024",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2025,
+  "label": "2024-25",
+  "coach": "Jon Scheyer",
+  "wins": 35,
+  "losses": 4,
+  "recordIsComputed": true,
+  "conferenceRecord": "19-1",
+  "gamesScheduled": 39,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2025",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2026,
+  "label": "2025-26",
+  "coach": "Jon Scheyer",
+  "wins": 35,
+  "losses": 3,
+  "recordIsComputed": true,
+  "conferenceRecord": "17-1",
+  "gamesScheduled": 38,
+  "isCurrent": false,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2026",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ },
+ {
+  "season": 2027,
+  "label": "2026-27",
+  "coach": "Jon Scheyer",
+  "wins": 3,
+  "losses": 1,
+  "recordIsComputed": true,
+  "conferenceRecord": "0-0",
+  "gamesScheduled": 32,
+  "isCurrent": true,
+  "source": {
+   "name": "ESPN",
+   "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/150/schedule?season=2027",
+   "retrievedAt": "2026-11-18T01:08:12+00:00"
+  }
+ }
+]
