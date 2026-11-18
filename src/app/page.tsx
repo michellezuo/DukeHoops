@@ -6,6 +6,7 @@ import { Badge, Card, CardHeader, DataNote, EmptyState, StatTile } from "@/compo
 import { GlobalSearch } from "@/components/search/GlobalSearch";
 import { GameRow } from "@/components/games/GameRow";
 import { PlayerAvatar } from "@/components/players/PlayerAvatar";
+import { Gloss } from "@/components/ui/Gloss";
 
 export const revalidate = 600;
 
@@ -24,9 +25,9 @@ export default async function HomePage() {
     <div className="space-y-8">
       {/* Hero */}
       <section className="rounded-2xl bg-gradient-to-br from-duke-navy to-duke-royal px-6 py-10 text-white sm:px-10">
-        <p className="text-xs font-semibold uppercase tracking-widest text-white/70">Duke Men&apos;s Basketball</p>
-        <h1 className="mt-2 max-w-2xl text-3xl font-bold tracking-tight sm:text-4xl">Explore, compare, and study Duke basketball history.</h1>
-        <p className="mt-3 max-w-2xl text-white/80">
+        <p className="text-sm font-bold uppercase tracking-widest text-white/80">Duke Men&apos;s Basketball</p>
+        <h1 className="mt-2 max-w-2xl text-4xl font-extrabold tracking-tight sm:text-5xl">Explore, compare, and study Duke basketball history.</h1>
+        <p className="mt-3 max-w-2xl text-lg font-medium text-white/85">
           {data.playerCount} players · {data.seasonCount} seasons · {data.gameCount.toLocaleString()} games, all from sourced data.
         </p>
         <div className="mt-6 max-w-2xl">
@@ -53,7 +54,7 @@ export default async function HomePage() {
           )}
           <div className="grid grid-cols-1 gap-6 border-t border-border p-5 md:grid-cols-2">
             <div>
-              <h3 className="mb-1 text-sm font-semibold text-fg">Recent results</h3>
+              <h3 className="mb-1 text-base font-bold text-fg">Recent results</h3>
               {data.recentResults.length ? (
                 <div className="divide-y divide-border">{data.recentResults.map((g) => <GameRow key={g.id} game={g} />)}</div>
               ) : (
@@ -61,7 +62,7 @@ export default async function HomePage() {
               )}
             </div>
             <div>
-              <h3 className="mb-1 text-sm font-semibold text-fg">Upcoming</h3>
+              <h3 className="mb-1 text-base font-bold text-fg">Upcoming</h3>
               {data.upcoming.length ? (
                 <div className="divide-y divide-border">{data.upcoming.map((g) => <GameRow key={g.id} game={g} />)}</div>
               ) : (
@@ -97,11 +98,11 @@ export default async function HomePage() {
                 <Link href={`/players/${p.id}`} className="flex items-center gap-3 px-5 py-3 hover:bg-surface-2">
                   <PlayerAvatar name={p.fullName} src={p.headshotUrl} size={44} />
                   <span className="min-w-0 flex-1">
-                    <span className="block truncate font-medium text-fg">{p.fullName}</span>
-                    <span className="block text-xs text-muted">#{p.jersey ?? "—"} · {p.positionAbbr ?? "—"} · {p.displayHeight ?? "—"}</span>
+                    <span className="block truncate font-bold text-fg">{p.fullName}</span>
+                    <span className="block text-sm text-muted">#{p.jersey ?? "—"} · <Gloss text={p.positionAbbr ?? "—"} align="left" focusable={false} /> · {p.displayHeight ?? "—"}</span>
                   </span>
-                  <span className="tabular text-right text-xs text-muted">
-                    <span className="block text-sm font-semibold text-fg">{fmt(p.ppg)}</span>PPG
+                  <span className="tabular text-right text-xs font-semibold text-muted">
+                    <span className="block text-lg font-extrabold text-fg">{fmt(p.ppg)}</span><Gloss text="PPG" align="right" focusable={false} />
                   </span>
                 </Link>
               </li>
@@ -120,8 +121,8 @@ export default async function HomePage() {
               <li key={`${player.id}-${stats.season}`}>
                 <Link href={`/players/${player.id}`} className="flex items-center gap-3 px-5 py-3 hover:bg-surface-2">
                   <span className="tabular w-5 text-sm font-semibold text-muted">{i + 1}</span>
-                  <span className="flex-1 text-sm"><span className="font-medium text-fg">{player.fullName}</span> <span className="text-muted">· {seasonLabel(stats.season)}</span></span>
-                  <span className="tabular font-semibold text-fg">{fmt(stats.perGame.pts)}</span>
+                  <span className="flex-1 text-sm"><span className="font-bold text-fg">{player.fullName}</span> <span className="text-muted">· {seasonLabel(stats.season)}</span></span>
+                  <span className="tabular text-lg font-extrabold text-fg">{fmt(stats.perGame.pts)}</span>
                 </Link>
               </li>
             ))}
@@ -134,7 +135,7 @@ export default async function HomePage() {
             {data.championships.map((c) => (
               <li key={c.season} className="flex items-center gap-3 px-5 py-3 text-sm">
                 <Badge tone="brand">{c.season}</Badge>
-                <span className="flex-1 text-fg">def. {c.opponent}, {c.score}</span>
+                <span className="flex-1 text-fg">def. <strong>{c.opponent}</strong>, {c.score}</span>
                 <span className="text-xs text-muted">{c.site}</span>
               </li>
             ))}
@@ -148,7 +149,7 @@ export default async function HomePage() {
         {QUICK_LINKS.map(({ href, label, desc, icon: Icon }) => (
           <Link key={href} href={href} className="group rounded-xl border border-border bg-surface p-5 transition-shadow hover:shadow-md">
             <Icon className="h-5 w-5 text-accent" aria-hidden />
-            <p className="mt-3 flex items-center gap-1 font-semibold text-fg">{label} <ArrowRight className="h-4 w-4 opacity-0 transition-opacity group-hover:opacity-100" /></p>
+            <p className="mt-3 flex items-center gap-1 text-lg font-bold text-fg">{label} <ArrowRight className="h-4 w-4 opacity-0 transition-opacity group-hover:opacity-100" /></p>
             <p className="mt-1 text-sm text-muted">{desc}</p>
           </Link>
         ))}

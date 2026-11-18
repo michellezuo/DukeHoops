@@ -4,6 +4,7 @@ import { parseStatQuery, runStatQuery, searchAll, type SearchHit } from "@/lib/d
 import { METRICS, fmt, fmtPct, seasonLabel, formatMetric } from "@/lib/stats";
 import { Card, CardHeader, DataNote, EmptyState, PageHeader } from "@/components/ui/primitives";
 import { GlobalSearch } from "@/components/search/GlobalSearch";
+import { Gloss } from "@/components/ui/Gloss";
 
 export const metadata: Metadata = { title: "Search" };
 
@@ -46,13 +47,13 @@ export default async function SearchPage({ searchParams }: PageProps<"/search">)
               {statRows.length ? (
                 <div className="overflow-x-auto">
                   <table className="w-full min-w-[560px] text-sm">
-                    <thead className="bg-surface-2 text-xs uppercase text-muted">
-                      <tr>{["Player", "Season", "GP", "PTS", "REB", "AST", "FG%"].map((h, i) => <th key={h} className={`px-4 py-2.5 ${i < 2 ? "text-left" : "text-right"}`}>{h}</th>)}</tr>
+                    <thead className="bg-surface-2 text-sm font-bold uppercase tracking-wide text-fg">
+                      <tr>{["Player", "Season", "GP", "PTS", "REB", "AST", "FG%"].map((h, i) => <th key={h} className={`px-4 py-2.5 ${i < 2 ? "text-left" : "text-right"}`}><Gloss text={h} align="right" /></th>)}</tr>
                     </thead>
                     <tbody className="divide-y divide-border">
                       {statRows.map(({ player, stats }) => (
                         <tr key={`${player.id}-${stats.season}`} className="hover:bg-surface-2">
-                          <td className="px-4 py-2"><Link href={`/players/${player.id}`} className="font-medium hover:underline">{player.fullName}</Link></td>
+                          <td className="px-4 py-2"><Link href={`/players/${player.id}`} className="font-semibold hover:underline">{player.fullName}</Link></td>
                           <td className="px-4 py-2"><Link href={`/seasons/${stats.season}`} className="text-accent hover:underline">{seasonLabel(stats.season)}</Link></td>
                           <td className="tabular px-4 py-2 text-right">{stats.gamesPlayed ?? "—"}</td>
                           <td className="tabular px-4 py-2 text-right">{fmt(stats.perGame.pts)}</td>

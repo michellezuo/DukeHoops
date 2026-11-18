@@ -1,5 +1,8 @@
 import { getDataset } from "./dataset";
 import { careerLine, seasonLabel, seasonMetric, type CareerLine, type MetricKey } from "@/lib/stats";
+import { CURATED_QUESTIONS } from "@/lib/tenting/curated";
+import { generateSeasonQuestions } from "@/lib/tenting/generate";
+import type { QuizQuestion } from "@/lib/tenting/types";
 import type { Dataset, Game, Nullable, Player, PlayerGameStats, PlayerSeasonStats, Season } from "@/lib/types";
 
 /**
@@ -397,4 +400,12 @@ export async function searchAll(q: string, limit = 8): Promise<SearchHit[]> {
 export async function getDatasetMeta() {
   const { ds } = await ctx();
   return { meta: ds.meta, backend: ds.backend };
+}
+
+// ------------------------------------------------------------------ tenting prep
+
+export async function getTentingQuiz(): Promise<{ questions: QuizQuestion[]; seasonLabel: string }> {
+  const { ds } = await ctx();
+  const year = await getCurrentSeasonYear();
+  return { questions: [...generateSeasonQuestions(ds, year), ...CURATED_QUESTIONS], seasonLabel: seasonLabel(year) };
 }

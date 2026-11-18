@@ -7,6 +7,7 @@ import { fmt, fmtInt, fmtPct, seasonLabel } from "@/lib/stats";
 import { Badge, Card, CardHeader, DataNote, EmptyState, StatTile } from "@/components/ui/primitives";
 import { GameRow } from "@/components/games/GameRow";
 import { PlayerAvatar } from "@/components/players/PlayerAvatar";
+import { Gloss } from "@/components/ui/Gloss";
 
 export const revalidate = 600;
 
@@ -66,10 +67,10 @@ export default async function SeasonPage({ params }: PageProps<"/seasons/[season
         {roster.length ? (
           <div className="overflow-x-auto">
             <table className="w-full min-w-[720px] text-sm">
-              <thead className="bg-surface-2 text-xs uppercase tracking-wide text-muted">
+              <thead className="bg-surface-2 text-sm font-bold uppercase tracking-wide text-fg">
                 <tr>
                   <th scope="col" className="px-4 py-2.5 text-left">Player</th>
-                  {["GP", "MIN", "PTS", "REB", "AST", "STL", "BLK", "FG%", "3P%", "FT%"].map((h) => <th key={h} scope="col" className="px-3 py-2.5 text-right">{h}</th>)}
+                  {["GP", "MIN", "PTS", "REB", "AST", "STL", "BLK", "FG%", "3P%", "FT%"].map((h) => <th key={h} scope="col" className="px-3 py-2.5 text-right"><Gloss text={h} align="right" /></th>)}
                 </tr>
               </thead>
               <tbody className="divide-y divide-border">
@@ -78,8 +79,8 @@ export default async function SeasonPage({ params }: PageProps<"/seasons/[season
                     <td className="px-4 py-2">
                       <Link href={`/players/${player.id}`} className="flex items-center gap-2.5">
                         <PlayerAvatar name={player.fullName} src={player.headshotUrl} size={28} />
-                        <span className="font-medium hover:underline">{player.fullName}</span>
-                        <span className="text-xs text-muted">#{jersey ?? "—"}</span>
+                        <span className="font-semibold hover:underline">{player.fullName}</span>
+                        <span className="text-sm text-muted">#{jersey ?? "—"}</span>
                       </Link>
                     </td>
                     <td className="tabular px-3 py-2 text-right">{fmtInt(stats?.gamesPlayed)}</td>

@@ -8,6 +8,7 @@ import type { PlayerSummary } from "@/lib/data/queries";
 import { fmt, fmtPct, fmtInt, seasonLabel } from "@/lib/stats";
 import { Badge, EmptyState, cn } from "@/components/ui/primitives";
 import { PlayerAvatar } from "./PlayerAvatar";
+import { Gloss } from "@/components/ui/Gloss";
 
 type SortKey = "lastName" | "firstSeason" | "gamesPlayed" | "ppg" | "rpg" | "apg" | "fgPct" | "bestPpg";
 
@@ -112,19 +113,19 @@ export function PlayerTable({ players, seasons, initial }: { players: PlayerSumm
         </div>
       </div>
 
-      <p className="text-sm text-muted" aria-live="polite">{rows.length} player{rows.length === 1 ? "" : "s"}</p>
+      <p className="text-sm font-semibold text-muted" aria-live="polite">{rows.length} player{rows.length === 1 ? "" : "s"}</p>
 
       {rows.length === 0 ? (
         <EmptyState title="No players match these filters">Try clearing a filter.</EmptyState>
       ) : (
         <div className="overflow-x-auto rounded-xl border border-border bg-surface">
           <table className="w-full min-w-[720px] text-sm">
-            <thead className="bg-surface-2 text-xs uppercase tracking-wide text-muted">
+            <thead className="bg-surface-2 text-sm font-bold uppercase tracking-wide text-fg">
               <tr>
                 {COLUMNS.map((c) => (
-                  <th key={c.key} scope="col" title={c.title} aria-sort={sort === c.key ? (dir === "asc" ? "ascending" : "descending") : "none"} className={cn("px-4 py-3 font-semibold", c.numeric ? "text-right" : "text-left")}>
+                  <th key={c.key} scope="col" aria-sort={sort === c.key ? (dir === "asc" ? "ascending" : "descending") : "none"} className={cn("px-4 py-3 font-semibold", c.numeric ? "text-right" : "text-left")}>
                     <button type="button" onClick={() => toggleSort(c.key)} className={cn("inline-flex items-center gap-1 hover:text-fg", sort === c.key && "text-fg")}>
-                      {c.label}
+                      {c.title ? <Gloss text={c.label} align={c.numeric ? "right" : "left"} focusable={false} /> : c.label}
                       {sort === c.key && (dir === "asc" ? <ArrowUp className="h-3 w-3" /> : <ArrowDown className="h-3 w-3" />)}
                     </button>
                   </th>
@@ -138,8 +139,8 @@ export function PlayerTable({ players, seasons, initial }: { players: PlayerSumm
                     <Link href={`/players/${p.id}`} className="flex items-center gap-3">
                       <PlayerAvatar name={p.fullName} src={p.headshotUrl} size={32} />
                       <span>
-                        <span className="font-medium text-fg hover:underline">{p.fullName}</span>
-                        <span className="block text-xs text-muted">#{p.jersey ?? "—"} · {p.positionAbbr ?? "—"} {p.isCurrent && <Badge tone="brand">Current</Badge>}</span>
+                        <span className="font-semibold text-fg hover:underline">{p.fullName}</span>
+                        <span className="block text-sm text-muted">#{p.jersey ?? "—"} · <Gloss text={p.positionAbbr ?? "—"} align="left" focusable={false} /> {p.isCurrent && <Badge tone="brand">Current</Badge>}</span>
                       </span>
                     </Link>
                   </td>

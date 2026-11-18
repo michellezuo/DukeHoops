@@ -13,7 +13,7 @@
   --duke-white: #ffffff;
   --duke-bg-light: #f5f7fa;
   --duke-bg-dark: #101828;
-  --duke-gray: #667085;
+  --duke-gray: #4a5568;
 
   /* Semantic tokens (light) */
   --bg: var(--duke-bg-light);
@@ -46,7 +46,7 @@
     --surface: #182235;
     --surface-2: #1f2b42;
     --fg: #e8edf5;
-    --muted: #98a2b3;
+    --muted: #b4bfcf;
     --border: #2a3650;
     --brand: #4d7fd6;
     --brand-strong: #8fb0ea;
@@ -81,6 +81,11 @@
   --color-duke-navy: var(--duke-navy);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+}
+
+/* Slightly larger base size: every rem-based Tailwind size scales with it. */
+html {
+  font-size: 106.25%; /* 17px */
 }
 
 body {

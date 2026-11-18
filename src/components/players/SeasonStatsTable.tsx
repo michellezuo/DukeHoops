@@ -5,10 +5,11 @@ import { useState } from "react";
 import type { PlayerSeasonStats } from "@/lib/types";
 import { calculatedMetrics, fmt, fmtInt, fmtPct, seasonLabel, type CareerLine } from "@/lib/stats";
 import { MetricSwitcher } from "@/components/charts/MetricSwitcher";
+import { Gloss } from "@/components/ui/Gloss";
 
 type View = "perGame" | "totals" | "shooting";
 
-const th = "px-3 py-2.5 text-right font-semibold";
+const th = "px-3 py-2.5 text-right";
 const td = "tabular px-3 py-2 text-right";
 
 export function SeasonStatsTable({ rows, career, ranks }: { rows: PlayerSeasonStats[]; career: CareerLine; ranks: Record<number, { ppgRank: number | null; rosterSize: number }> }) {
@@ -51,16 +52,16 @@ export function SeasonStatsTable({ rows, career, ranks }: { rows: PlayerSeasonSt
       />
       <div className="overflow-x-auto rounded-lg border border-border">
         <table className="w-full min-w-[640px] text-sm">
-          <thead className="bg-surface-2 text-xs uppercase tracking-wide text-muted">
+          <thead className="bg-surface-2 text-sm font-bold uppercase tracking-wide text-fg">
             <tr>
               <th scope="col" className="px-3 py-2.5 text-left font-semibold">Season</th>
-              {head.map((h) => <th key={h} scope="col" className={th}>{h}</th>)}
+              {head.map((h) => <th key={h} scope="col" className={th}><Gloss text={h} align="right" /></th>)}
             </tr>
           </thead>
           <tbody className="divide-y divide-border">
             {rows.map((r) => (
               <tr key={r.season} className="hover:bg-surface-2">
-                <th scope="row" className="px-3 py-2 text-left font-medium"><Link href={`/seasons/${r.season}`} className="text-accent hover:underline">{seasonLabel(r.season)}</Link></th>
+                <th scope="row" className="px-3 py-2 text-left font-semibold"><Link href={`/seasons/${r.season}`} className="text-accent hover:underline">{seasonLabel(r.season)}</Link></th>
                 {cells(r, null).map((v, i) => <td key={i} className={td}>{v}</td>)}
               </tr>
             ))}
@@ -75,8 +76,8 @@ export function SeasonStatsTable({ rows, career, ranks }: { rows: PlayerSeasonSt
           )}
         </table>
       </div>
-      {view === "shooting" && <p className="text-xs text-muted">* Calculated from ESPN box-score totals (TS% = PTS / 2(FGA + 0.44·FTA); eFG% = (FGM + 0.5·3PM) / FGA; FTr = FTA/FGA; 3PAr = 3PA/FGA). Not official statistics.</p>}
-      {view === "perGame" && <p className="text-xs text-muted">Team PPG rank compares against teammates with recorded stats that season.</p>}
+      {view === "shooting" && <p className="text-sm text-muted">* Calculated from ESPN box-score totals (TS% = PTS / 2(FGA + 0.44·FTA); eFG% = (FGM + 0.5·3PM) / FGA; FTr = FTA/FGA; 3PAr = 3PA/FGA). Not official statistics.</p>}
+      {view === "perGame" && <p className="text-sm text-muted">Team PPG rank compares against teammates with recorded stats that season.</p>}
     </div>
   );
 }

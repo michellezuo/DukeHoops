@@ -9,6 +9,7 @@ import { PlayerAvatar } from "@/components/players/PlayerAvatar";
 import { SeasonStatsTable } from "@/components/players/SeasonStatsTable";
 import { SeasonTrendChart } from "@/components/charts/SeasonTrendChart";
 import { GameLogChart } from "@/components/charts/GameLogChart";
+import { Gloss } from "@/components/ui/Gloss";
 
 export const revalidate = 600;
 
@@ -66,8 +67,8 @@ export default async function PlayerPage({ params }: PageProps<"/players/[id]">)
         <dl className="grid grid-cols-2 gap-px bg-border sm:grid-cols-3 lg:grid-cols-6">
           {bio.map(([k, v]) => (
             <div key={k} className="bg-surface px-5 py-3">
-              <dt className="text-xs uppercase tracking-wide text-muted">{k}</dt>
-              <dd className="mt-0.5 font-medium text-fg">{v}</dd>
+              <dt className="text-sm font-bold uppercase tracking-wide text-muted">{k}</dt>
+              <dd className="mt-0.5 font-semibold text-fg"><Gloss text={v} align="left" /></dd>
             </div>
           ))}
         </dl>
@@ -106,8 +107,8 @@ export default async function PlayerPage({ params }: PageProps<"/players/[id]">)
               <summary className="cursor-pointer text-sm font-medium text-accent">Show game-by-game table ({gameLogs.length} games)</summary>
               <div className="mt-3 max-h-[480px] overflow-auto rounded-lg border border-border">
                 <table className="w-full min-w-[640px] text-sm">
-                  <thead className="sticky top-0 bg-surface-2 text-xs uppercase text-muted">
-                    <tr>{["Date", "Opponent", "Result", "MIN", "PTS", "REB", "AST", "FG", "3PT", "FT"].map((h) => <th key={h} className="px-3 py-2 text-left font-semibold">{h}</th>)}</tr>
+                  <thead className="sticky top-0 bg-surface-2 text-sm font-bold uppercase tracking-wide text-fg">
+                    <tr>{["Date", "Opponent", "Result", "MIN", "PTS", "REB", "AST", "FG", "3PT", "FT"].map((h) => <th key={h} className="px-3 py-2 text-left"><Gloss text={h} align="left" /></th>)}</tr>
                   </thead>
                   <tbody className="divide-y divide-border">
                     {[...gameLogs].reverse().map((g) => (

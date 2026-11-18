@@ -13,7 +13,7 @@ export function MetricSwitcher<K extends string>({ options, value, onChange, lab
           aria-checked={o.key === value}
           onClick={() => onChange(o.key)}
           className={cn(
-            "rounded-full border px-3 py-1 text-xs font-medium transition-colors",
+            "rounded-full border px-3.5 py-1.5 text-sm font-semibold transition-colors",
             o.key === value ? "border-brand bg-brand text-on-brand" : "border-border bg-surface text-muted hover:text-fg",
           )}
         >

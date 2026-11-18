@@ -13,6 +13,7 @@ export const NAV = [
   { href: "/seasons", label: "Seasons" },
   { href: "/compare", label: "Compare" },
   { href: "/search", label: "Stat Search" },
+  { href: "/tenting", label: "Tenting Prep" },
 ];
 
 export function SiteHeader() {
@@ -25,7 +26,7 @@ export function SiteHeader() {
       <div className="mx-auto flex h-16 max-w-7xl items-center gap-4 px-4 sm:px-6">
         <Link href="/" className="flex items-center gap-2 font-bold tracking-tight">
           <span className="flex h-8 w-8 items-center justify-center rounded-md bg-white text-sm font-black text-duke-royal">D</span>
-          <span className="hidden sm:inline">Duke Hoops Intel</span>
+          <span className="hidden text-lg sm:inline">Duke Hoops Intel</span>
         </Link>
         <nav aria-label="Main" className="hidden items-center gap-1 md:flex">
           {NAV.map((n) => (
@@ -34,7 +35,7 @@ export function SiteHeader() {
               href={n.href}
               aria-current={isActive(n.href) ? "page" : undefined}
               className={cn(
-                "rounded-md px-3 py-2 text-sm font-medium transition-colors",
+                "rounded-md px-3 py-2 text-[0.95rem] font-semibold transition-colors",
                 isActive(n.href) ? "bg-white/15 text-white" : "text-white/75 hover:bg-white/10 hover:text-white",
               )}
             >
@@ -62,7 +63,7 @@ export function SiteHeader() {
               key={n.href}
               href={n.href}
               onClick={() => setOpen(false)}
-              className={cn("block rounded-md px-3 py-2 text-sm", isActive(n.href) ? "bg-white/15" : "text-white/80")}
+              className={cn("block rounded-md px-3 py-2 text-base font-semibold", isActive(n.href) ? "bg-white/15" : "text-white/80")}
             >
               {n.label}
             </Link>

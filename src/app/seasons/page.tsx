@@ -3,6 +3,7 @@ import Link from "next/link";
 import { Trophy } from "lucide-react";
 import { listSeasons } from "@/lib/data/queries";
 import { Badge, DataNote, PageHeader, cn } from "@/components/ui/primitives";
+import { Gloss } from "@/components/ui/Gloss";
 
 export const metadata: Metadata = { title: "Seasons" };
 
@@ -26,7 +27,7 @@ export default async function SeasonsPage({ searchParams }: PageProps<"/seasons"
       <div className="space-y-8">
         {[...decades.entries()].map(([decade, list]) => (
           <section key={decade} aria-labelledby={`d-${decade}`}>
-            <h2 id={`d-${decade}`} className="mb-3 text-sm font-semibold uppercase tracking-wider text-muted">{decade}s</h2>
+            <h2 id={`d-${decade}`} className="mb-3 text-base font-bold uppercase tracking-wider text-muted">{decade}s</h2>
             <ol className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
               {list.map((s) => (
                 <li key={s.season}>
@@ -42,7 +43,7 @@ export default async function SeasonsPage({ searchParams }: PageProps<"/seasons"
                       <div className="h-full rounded-full bg-brand" style={{ width: `${((s.wins ?? 0) / maxWins) * 100}%` }} />
                     </div>
                     <p className="tabular mt-2 text-sm text-muted">
-                      <span className="font-semibold text-fg">{s.wins !== null ? `${s.wins}-${s.losses}` : "—"}</span> · ACC {s.conferenceRecord ?? "—"} · {s.coach ?? "Coach —"}
+                      <span className="font-semibold text-fg">{s.wins !== null ? `${s.wins}-${s.losses}` : "—"}</span> · <Gloss text="ACC" /> {s.conferenceRecord ?? "—"} · {s.coach ?? "Coach —"}
                     </p>
                   </Link>
                 </li>
@@ -53,7 +54,7 @@ export default async function SeasonsPage({ searchParams }: PageProps<"/seasons"
       </div>
       <div className="mt-8 space-y-1">
         <DataNote>Overall records are computed from completed games in ESPN&apos;s schedule feed. Early-2000s schedules in that feed can be incomplete, so a record may differ from the official NCAA record book; official records will be cross-checked when a second source is added.</DataNote>
-        <DataNote>ACC record is regular-season conference play as reported by ESPN.</DataNote>
+        <DataNote>ACC (Atlantic Coast Conference) record is regular-season conference play as reported by ESPN.</DataNote>
       </div>
     </>
   );

@@ -9,6 +9,7 @@ import { PlayerPicker, type PickerPlayer } from "@/components/compare/PlayerPick
 import { MAX_COMPARE } from "@/lib/compare";
 import { SeasonTrendChart, type TrendSeries } from "@/components/charts/SeasonTrendChart";
 import type { Nullable } from "@/lib/types";
+import { Gloss } from "@/components/ui/Gloss";
 
 export const metadata: Metadata = { title: "Compare players" };
 
@@ -101,7 +102,7 @@ export default async function ComparePage({ searchParams }: PageProps<"/compare"
             <CardHeader title="Career at Duke" subtitle="Best value in each row is highlighted" />
             <div className="overflow-x-auto">
               <table className="w-full min-w-[560px] text-sm">
-                <thead className="bg-surface-2 text-xs uppercase tracking-wide text-muted">
+                <thead className="bg-surface-2 text-sm font-bold uppercase tracking-wide text-fg">
                   <tr>
                     <th scope="col" className="px-4 py-3 text-left">Stat</th>
                     {profiles.map((p) => (
@@ -118,8 +119,8 @@ export default async function ComparePage({ searchParams }: PageProps<"/compare"
                     const best = r.higherIsBetter && known.length > 1 ? Math.max(...known) : null;
                     return (
                       <tr key={r.label}>
-                        <th scope="row" className="px-4 py-2.5 text-left font-medium text-fg" title={r.note}>
-                          {r.label}{r.note && <span className="ml-1 text-muted">ⓘ</span>}
+                        <th scope="row" className="px-4 py-2.5 text-left font-semibold text-fg" title={r.note}>
+                          <Gloss text={r.label} align="left" />{r.note && <span className="ml-1 text-muted">ⓘ</span>}
                         </th>
                         {r.values.map((v, i) => (
                           <td key={i} className={cn("tabular px-4 py-2.5 text-right", best !== null && v === best && "font-bold text-brand")}>{r.format(v)}</td>
