@@ -2,13 +2,16 @@
 
 import Link from "next/link";
 import { useMemo, useState, type ReactNode } from "react";
-import { Check, ExternalLink, History, ListChecks, MinusCircle, RotateCcw, Shuffle, Trash2, X } from "lucide-react";
+import { Check, ExternalLink, History, ListChecks, MinusCircle, RotateCcw, Shuffle, Timer, Trash2, X } from "lucide-react";
 import { QUIZ_CATEGORIES, seededShuffle, type QuizCategory, type QuizQuestion } from "@/lib/tenting/types";
 import { CLEAR_AFTER, reviewOrder, type Outcome } from "@/lib/tenting/missed";
 import { useMissed } from "@/lib/tenting/useMissed";
+import { useMockSession } from "@/lib/tenting/useMockSession";
+import { pointsFor } from "@/lib/tenting/mock";
 import { Badge, cn } from "@/components/ui/primitives";
+import { MockTest } from "./MockTest";
 
-type Mode = "practice" | "review";
+type Mode = "practice" | "review" | "mock";
 
 export function PracticeQuiz({ questions }: { questions: QuizQuestion[] }) {
   const counts = useMemo(() => Object.fromEntries(QUIZ_CATEGORIES.map((c) => [c, questions.filter((q) => q.category === c).length])) as Record<QuizCategory, number>, [questions]);
@@ -27,6 +30,9 @@ export function PracticeQuiz({ questions }: { questions: QuizQuestion[] }) {
   const [confirmClear, setConfirmClear] = useState(false);
 
   const missed = useMissed();
+  // A saved mock test (running or being graded) takes over the quiz, so a reload or a site link resumes it.
+  const mockActive = useMockSession().session !== null;
+  const view: Mode = mockActive ? "mock" : mode;
   const byId = useMemo(() => new Map(questions.map((q) => [q.id, q])), [questions]);
   const existingIds = useMemo(() => new Set(questions.map((q) => q.id)), [questions]);
   const missedIds = useMemo(() => reviewOrder(missed.store, existingIds), [missed.store, existingIds]);
@@ -37,7 +43,7 @@ export function PracticeQuiz({ questions }: { questions: QuizQuestion[] }) {
   const q = deck[idx];
   const done = idx >= deck.length;
 
-  const score = deck.reduce((acc, d) => acc + (results[d.id] === "right" ? d.points : results[d.id] === "wrong" && penalty ? -d.points : 0), 0);
+  const score = deck.reduce((acc, d) => acc + pointsFor(d, results[d.id], penalty), 0);
   const possible = deck.reduce((acc, d) => acc + d.points, 0);
   const answered = deck.filter((d) => results[d.id]).length;
 
@@ -64,13 +70,20 @@ export function PracticeQuiz({ questions }: { questions: QuizQuestion[] }) {
   return (
     <div className="space-y-5">
       {/* Mode switch */}
-      <div role="tablist" aria-label="Quiz mode" className="inline-flex rounded-xl border border-border bg-surface p-1">
-        <ModeButton active={mode === "practice"} onClick={startPractice} icon={<ListChecks className="h-4 w-4" />}>Practice</ModeButton>
-        <ModeButton active={mode === "review"} onClick={startReview} icon={<History className="h-4 w-4" />}>
+      {!mockActive && (
+      <div role="tablist" aria-label="Quiz mode" className="inline-flex flex-wrap rounded-xl border border-border bg-surface p-1">
+        <ModeButton active={view === "practice"} onClick={startPractice} icon={<ListChecks className="h-4 w-4" />}>Practice</ModeButton>
+        <ModeButton active={view === "review"} onClick={startReview} icon={<History className="h-4 w-4" />}>
           Review missed{missedIds.length > 0 && <span className="tabular ml-1 rounded-full bg-danger px-1.5 text-xs text-white">{missedIds.length}</span>}
         </ModeButton>
+        <ModeButton active={view === "mock"} onClick={() => { setMode("mock"); setConfirmClear(false); }} icon={<Timer className="h-4 w-4" />}>Mock test</ModeButton>
       </div>
+      )}
 
+      {view === "mock" ? (
+        <MockTest questions={questions} onFinish={() => setMode("mock")} />
+      ) : (
+      <>
       {/* Controls */}
       {mode === "practice" ? (
         <div className="space-y-3 rounded-xl border border-border bg-surface p-4">
@@ -167,6 +180,7 @@ export function PracticeQuiz({ questions }: { questions: QuizQuestion[] }) {
                 <Badge tone="brand">{q.category}</Badge>
                 <Badge>{q.points} pt{q.points === 1 ? "" : "s"}</Badge>
                 {q.generated && <Badge tone="success">Live data</Badge>}
+                {q.bonus && <Badge tone="success">Bonus · no penalty</Badge>}
                 {entry && !results[q.id] && (
                   <Badge tone="danger">{entry.streak > 0 ? `${CLEAR_AFTER - entry.streak} more right to clear` : "Missed before"}</Badge>
                 )}
@@ -249,6 +263,8 @@ export function PracticeQuiz({ questions }: { questions: QuizQuestion[] }) {
             </article>
           )}
         </>
+      )}
+      </>
       )}
     </div>
   );

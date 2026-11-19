@@ -19,6 +19,8 @@ export interface QuizQuestion {
   choices?: string[];
   /** Point value, matching the [n pts] scale the real tests use. */
   points: number;
+  /** Bonus question: on the real tests a wrong bonus answer costs nothing (scores 0 instead of −points). */
+  bonus?: boolean;
   explanation?: string;
   source: { label: string; href: string };
   /** True if built from this app's live dataset rather than written by hand. */

@@ -7,6 +7,7 @@ import { GLOSSARY } from "@/lib/glossary";
 import { Card, CardHeader, DataNote, PageHeader, cn } from "@/components/ui/primitives";
 import { Gloss } from "@/components/ui/Gloss";
 import { PracticeQuiz } from "@/components/tenting/PracticeQuiz";
+import { MockResumeBanner } from "@/components/tenting/MockResumeBanner";
 
 export const metadata: Metadata = {
   title: "Tenting Prep",
@@ -77,6 +78,7 @@ export default async function TentingPage({ searchParams }: PageProps<"/tenting"
         ))}
       </nav>
 
+      {tab !== "quiz" && <MockResumeBanner />}
       {tab === "guide" && <Guide />}
       {tab === "quiz" && <Quiz />}
       {tab === "glossary" && <Glossary />}
