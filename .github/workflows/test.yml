@@ -1,0 +1,48 @@
+name: Test
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  # A new push to the same PR/branch cancels the older, now-outdated run
+  group: test-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        id: install
+        run: npm ci
+
+      - name: Unit tests
+        run: npm test
+
+      # The checks below still run if an earlier check failed (so one run reports every problem),
+      # but not if dependencies failed to install.
+      - name: Generate Next.js types
+        # next-env.d.ts and route types (PageProps) are git-ignored; tsc needs them
+        if: (success() || failure()) && steps.install.outcome == 'success'
+        run: npx next typegen
+
+      - name: Type check
+        if: (success() || failure()) && steps.install.outcome == 'success'
+        run: npx tsc --noEmit
+
+      - name: Lint
+        if: (success() || failure()) && steps.install.outcome == 'success'
+        run: npm run lint

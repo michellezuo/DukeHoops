@@ -321,20 +321,34 @@ const STAT_WORDS: Record<string, MetricKey> = {
   point: "pts", points: "pts", ppg: "pts", rebound: "reb", rebounds: "reb", rpg: "reb",
   assist: "ast", assists: "ast", apg: "ast", steal: "stl", steals: "stl", block: "blk", blocks: "blk",
   minutes: "min", turnovers: "tov",
+  // abbreviations, matching the short labels used across the site (PPG, RPG, …)
+  pts: "pts", reb: "reb", ast: "ast", stl: "stl", blk: "blk", tov: "tov", min: "min",
 };
 
-/** Parse phrases like "averaged more than 20 points and at least 5 rebounds". */
+function opFor(word: string): StatFilter["op"] {
+  const w = word.toLowerCase();
+  if (w === "at least" || w === ">=") return ">=";
+  if (w === "at most" || w === "<=") return "<=";
+  if (["less than", "under", "below", "fewer than", "<"].includes(w)) return "<";
+  return ">";
+}
+
+/**
+ * Parse phrases like "averaged more than 20 points and at least 5 rebounds" or "15 pts, 8 reb".
+ * An operator applies only to the number right after it; a number without one means "at least"
+ * ("under 3 turnovers and 15 points" → tov < 3, pts ≥ 15).
+ * A bare "3 point" (as in "3 point shooting") is not read as points ≥ 3; "3-point" and "3 pointers" never match.
+ */
 export function parseStatQuery(q: string): StatFilter[] {
   const filters: StatFilter[] = [];
-  const re = /(more than|over|greater than|above|at least|>=|>|less than|under|below|fewer than|at most|<=|<)\s*(\d+(?:\.\d+)?)\s*([a-z]+)/gi;
+  const re = /(?:(more than|over|greater than|above|at least|>=|>|less than|under|below|fewer than|at most|<=|<)\s*)?(\d+(?:\.\d+)?)\s*([a-z]+)/gi;
   let m: RegExpExecArray | null;
   while ((m = re.exec(q))) {
-    const metric = STAT_WORDS[m[3].toLowerCase()];
+    const word = m[3].toLowerCase();
+    if (!m[1] && word === "point") continue; // "3 point shooting" means three-pointers
+    const metric = STAT_WORDS[word];
     if (!metric) continue;
-    const w = m[1].toLowerCase();
-    const op: StatFilter["op"] =
-      w === "at least" || w === ">=" ? ">=" : w === "at most" || w === "<=" ? "<=" : ["less than", "under", "below", "fewer than", "<"].includes(w) ? "<" : ">";
-    filters.push({ metric, op, value: Number(m[2]) });
+    filters.push({ metric, op: m[1] ? opFor(m[1]) : ">=", value: Number(m[2]) });
   }
   return filters;
 }
