@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T16:29:27+00:00",
+ "generatedAt": "2026-11-22T16:47:43+00:00",
  "seasonRange": [
   2002,
   2027
@@ -10,7 +10,7 @@
   "seasons": 26,
   "games": 933,
   "playerSeasonStats": 347,
-  "playerGameStats": 839
+  "playerGameStats": 849
  },
  "http": {
   "liveRequests": 88,
